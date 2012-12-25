@@ -1,0 +1,10 @@
+# 1 transit stub graph, initial seed 32
+ts 1 32
+# 3 stub domains/ transit, no extra transit-stub or stub-stub edges
+3 0 0
+# 1 transit domain, scale 20, edge method 3, connect probability 1.0
+1 20 3 1.0
+# 4 transit nodes per td, scale 20, edge method 3, connect prob. 0.6
+4 20 3 0.6
+# 8 nodes / stub domain, scale 10, edge method 3, connect prob. 0.42
+8 10 3 0.42

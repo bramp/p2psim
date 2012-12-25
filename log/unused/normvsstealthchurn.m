@@ -1,0 +1,13 @@
+function [norm1 norm2 norm3 data1 data2 data3] = normvsstealth()
+	%norm1 = importtab2 ('P:\Churn\Normal ~unfinished\1119898155.KeysChurnTest-0.05\traces\output-n1000-0.05-0.txt.gz.tab');
+	%norm2 = importtab2 ('P:\Churn\Normal ~unfinished\1119898155.KeysChurnTest-0.05\traces\output-n1000-0.05-1.txt.gz.tab');
+	%norm3 = importtab2 ('P:\Churn\Normal ~unfinished\1119898155.KeysChurnTest-0.05\traces\output-n1000-0.05-2.txt.gz.tab');
+	%data1 = importtab2 ('P:\Churn\Stealth\1119891269.KeysChurnTest-0.05\traces\output-n1000-0.05-0.txt.gz.tab');
+	%data2 = importtab2 ('P:\Churn\Stealth\1119891269.KeysChurnTest-0.05\traces\output-n1000-0.05-1.txt.gz.tab');
+	%data3 = importtab2 ('P:\Churn\Stealth\1119891269.KeysChurnTest-0.05\traces\output-n1000-0.05-2.txt.gz.tab');
+	norm1 = importtab2 ('P:\Reruns\With Churn\1120589240.puredht.KeysChurnTest-0.05\traces\output-n1000-0.05-0.txt.gz.tab');
+	norm2 = importtab2 ('P:\Reruns\With Churn\1120589240.puredht.KeysChurnTest-0.05\traces\output-n1000-0.05-1.txt.gz.tab');
+	norm3 = importtab2 ('P:\Reruns\With Churn\1120589240.puredht.KeysChurnTest-0.05\traces\output-n1000-0.05-2.txt.gz.tab');
+	data1 = importtab2 ('P:\Reruns\With Churn\1120594450.stealth.KeysChurnTest-0.05\traces\output-n1000-0.05-0.txt.gz.tab');
+	data2 = importtab2 ('P:\Reruns\With Churn\1120594450.stealth.KeysChurnTest-0.05\traces\output-n1000-0.05-1.txt.gz.tab');
+	data3 = importtab2 ('P:\Reruns\With Churn\1120594450.stealth.KeysChurnTest-0.05\traces\output-n1000-0.05-2.txt.gz.tab');

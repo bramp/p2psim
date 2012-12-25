@@ -1,0 +1,1575 @@
+# Number of clients
+137
+# Number of objects and object lengths
+1
+kerrang	2565
+# Start of actions
+0	f3874041b313e8e448b7144dffbf1b1f	kerrang	seek	0	restart
+11	f3874041b313e8e448b7144dffbf1b1f	kerrang	pause
+11.33	f3874041b313e8e448b7144dffbf1b1f	kerrang	seek	492	bar
+11.67	f3874041b313e8e448b7144dffbf1b1f	kerrang	seek	10	
+19	f3874041b313e8e448b7144dffbf1b1f	kerrang	seek	1179	shortcut Good Charlotte - The River
+25	f3874041b313e8e448b7144dffbf1b1f	kerrang	seek	255	shortcut Elliot Minor - Parallel Worlds
+60	f3874041b313e8e448b7144dffbf1b1f	kerrang	stop
+478	8146ab324450ffe9acdaf2d4e8c5e18e	kerrang	seek	0	restart
+497	8146ab324450ffe9acdaf2d4e8c5e18e	kerrang	seek	72	fwd 60
+499	8146ab324450ffe9acdaf2d4e8c5e18e	kerrang	seek	133	fwd 60
+529	8146ab324450ffe9acdaf2d4e8c5e18e	kerrang	stop
+603	6119f8a46d97cd799deb2e14f4a790eb	kerrang	seek	0	restart
+651	6119f8a46d97cd799deb2e14f4a790eb	kerrang	seek	1372	shortcut Avril Lavigne - Girlfriend
+659	47fcdc4ab9cc7d838324b8b778885257	kerrang	seek	0	restart
+664	47fcdc4ab9cc7d838324b8b778885257	kerrang	pause
+664.33	47fcdc4ab9cc7d838324b8b778885257	kerrang	seek	5	
+664.67	47fcdc4ab9cc7d838324b8b778885257	kerrang	seek	279	bar
+666	47fcdc4ab9cc7d838324b8b778885257	kerrang	pause
+667	47fcdc4ab9cc7d838324b8b778885257	kerrang	seek	281	
+667.5	47fcdc4ab9cc7d838324b8b778885257	kerrang	seek	775	bar
+674	47fcdc4ab9cc7d838324b8b778885257	kerrang	seek	933	shortcut Fall Out Boy - This Ain't a Scene
+695	6119f8a46d97cd799deb2e14f4a790eb	kerrang	seek	694	shortcut Funeral For A Friend - Obilvion
+744	6119f8a46d97cd799deb2e14f4a790eb	kerrang	stop
+866	47fcdc4ab9cc7d838324b8b778885257	kerrang	seek	0	restart
+871	47fcdc4ab9cc7d838324b8b778885257	kerrang	pause
+872	47fcdc4ab9cc7d838324b8b778885257	kerrang	seek	14	fwd 10
+873	47fcdc4ab9cc7d838324b8b778885257	kerrang	seek	25	fwd 10
+874	47fcdc4ab9cc7d838324b8b778885257	kerrang	seek	35	fwd 10
+875	47fcdc4ab9cc7d838324b8b778885257	kerrang	seek	96	fwd 60
+887	47fcdc4ab9cc7d838324b8b778885257	kerrang	pause
+887.33	47fcdc4ab9cc7d838324b8b778885257	kerrang	seek	761	bar
+887.67	47fcdc4ab9cc7d838324b8b778885257	kerrang	seek	108	
+888	47fcdc4ab9cc7d838324b8b778885257	kerrang	pause
+890	47fcdc4ab9cc7d838324b8b778885257	kerrang	seek	762	
+890.5	47fcdc4ab9cc7d838324b8b778885257	kerrang	seek	1187	bar
+893	47fcdc4ab9cc7d838324b8b778885257	kerrang	pause
+894	47fcdc4ab9cc7d838324b8b778885257	kerrang	seek	1190	
+894.5	47fcdc4ab9cc7d838324b8b778885257	kerrang	seek	1264	bar
+895	47fcdc4ab9cc7d838324b8b778885257	kerrang	pause
+895.25	47fcdc4ab9cc7d838324b8b778885257	kerrang	seek	1364	bar
+895.5	47fcdc4ab9cc7d838324b8b778885257	kerrang	seek	1264	
+895.75	47fcdc4ab9cc7d838324b8b778885257	kerrang	pause
+896	47fcdc4ab9cc7d838324b8b778885257	kerrang	seek	1365	
+896.5	47fcdc4ab9cc7d838324b8b778885257	kerrang	seek	1480	bar
+912	47fcdc4ab9cc7d838324b8b778885257	kerrang	pause
+912.33	47fcdc4ab9cc7d838324b8b778885257	kerrang	seek	1496	
+912.67	47fcdc4ab9cc7d838324b8b778885257	kerrang	seek	1658	bar
+913	47fcdc4ab9cc7d838324b8b778885257	kerrang	pause
+914	47fcdc4ab9cc7d838324b8b778885257	kerrang	seek	1659	
+914.33	47fcdc4ab9cc7d838324b8b778885257	kerrang	seek	1766	bar
+914.67	47fcdc4ab9cc7d838324b8b778885257	kerrang	pause
+915	47fcdc4ab9cc7d838324b8b778885257	kerrang	seek	1767	
+915.5	47fcdc4ab9cc7d838324b8b778885257	kerrang	seek	1899	bar
+916	47fcdc4ab9cc7d838324b8b778885257	kerrang	pause
+916.33	47fcdc4ab9cc7d838324b8b778885257	kerrang	seek	1987	bar
+916.67	47fcdc4ab9cc7d838324b8b778885257	kerrang	seek	1900	
+917	47fcdc4ab9cc7d838324b8b778885257	kerrang	pause
+918	47fcdc4ab9cc7d838324b8b778885257	kerrang	seek	1988	
+918.5	47fcdc4ab9cc7d838324b8b778885257	kerrang	seek	2066	bar
+921	47fcdc4ab9cc7d838324b8b778885257	kerrang	pause
+921.33	47fcdc4ab9cc7d838324b8b778885257	kerrang	seek	2134	bar
+921.67	47fcdc4ab9cc7d838324b8b778885257	kerrang	seek	2069	
+922	47fcdc4ab9cc7d838324b8b778885257	kerrang	pause
+922.33	47fcdc4ab9cc7d838324b8b778885257	kerrang	seek	2135	
+922.67	47fcdc4ab9cc7d838324b8b778885257	kerrang	seek	2276	bar
+923	47fcdc4ab9cc7d838324b8b778885257	kerrang	pause
+924	47fcdc4ab9cc7d838324b8b778885257	kerrang	seek	2277	
+924.33	47fcdc4ab9cc7d838324b8b778885257	kerrang	seek	2376	bar
+924.67	47fcdc4ab9cc7d838324b8b778885257	kerrang	pause
+925	47fcdc4ab9cc7d838324b8b778885257	kerrang	seek	2447	bar
+925.33	47fcdc4ab9cc7d838324b8b778885257	kerrang	seek	2377	
+925.67	47fcdc4ab9cc7d838324b8b778885257	kerrang	pause
+926	47fcdc4ab9cc7d838324b8b778885257	kerrang	seek	2448	
+926.5	47fcdc4ab9cc7d838324b8b778885257	kerrang	seek	2501	bar
+935	47fcdc4ab9cc7d838324b8b778885257	kerrang	pause
+936	47fcdc4ab9cc7d838324b8b778885257	kerrang	seek	1358	bar
+936.5	47fcdc4ab9cc7d838324b8b778885257	kerrang	seek	2510	
+939	47fcdc4ab9cc7d838324b8b778885257	kerrang	seek	933	shortcut Fall Out Boy - This Ain't a Scene
+1130	47fcdc4ab9cc7d838324b8b778885257	kerrang	seek	0	restart
+1180	47fcdc4ab9cc7d838324b8b778885257	kerrang	stop
+2140	3d8d358fbc6f038741727fecaa6eb954	kerrang	seek	0	restart
+2728	c26f0b6faae8b97c40a43633b446ab4e	kerrang	seek	0	restart
+2729	c26f0b6faae8b97c40a43633b446ab4e	kerrang	pause
+2759	c26f0b6faae8b97c40a43633b446ab4e	kerrang	stop
+3110	3d8d358fbc6f038741727fecaa6eb954	kerrang	pause
+4518	16c86008a04db6465b48873ac31932fb	kerrang	seek	0	restart
+4558	16c86008a04db6465b48873ac31932fb	kerrang	stop
+5828	5f789c0f824d13aba8eaee858292e846	kerrang	seek	0	restart
+5836	5f789c0f824d13aba8eaee858292e846	kerrang	pause
+5837	5f789c0f824d13aba8eaee858292e846	kerrang	seek	8	
+5837.5	5f789c0f824d13aba8eaee858292e846	kerrang	seek	87	bar
+5855	5f789c0f824d13aba8eaee858292e846	kerrang	seek	255	shortcut Elliot Minor - Parallel Worlds
+5858	5f789c0f824d13aba8eaee858292e846	kerrang	seek	434	shortcut Red Hot Chilis - Hump De Bump
+5862	5f789c0f824d13aba8eaee858292e846	kerrang	seek	694	shortcut Funeral For A Friend - Obilvion
+5865	5f789c0f824d13aba8eaee858292e846	kerrang	seek	933	shortcut Fall Out Boy - This Ain't a Scene
+5902	5f789c0f824d13aba8eaee858292e846	kerrang	pause
+5903	5f789c0f824d13aba8eaee858292e846	kerrang	seek	971	
+5903.5	5f789c0f824d13aba8eaee858292e846	kerrang	seek	995	bar
+5905	5f789c0f824d13aba8eaee858292e846	kerrang	pause
+5906	5f789c0f824d13aba8eaee858292e846	kerrang	seek	1017	bar
+5906.5	5f789c0f824d13aba8eaee858292e846	kerrang	seek	997	
+5914	5f789c0f824d13aba8eaee858292e846	kerrang	seek	1179	shortcut Good Charlotte - The River
+5922	5f789c0f824d13aba8eaee858292e846	kerrang	seek	1372	shortcut Avril Lavigne - Girlfriend
+5963	5f789c0f824d13aba8eaee858292e846	kerrang	seek	1598	shortcut Fall Out Boy - Thks Fr Th Mmrs
+6048	5f789c0f824d13aba8eaee858292e846	kerrang	seek	2334	shortcut HelloGoodbye - Here (in your arms)
+6074	5f789c0f824d13aba8eaee858292e846	kerrang	pause
+6074.33	5f789c0f824d13aba8eaee858292e846	kerrang	seek	2361	
+6074.67	5f789c0f824d13aba8eaee858292e846	kerrang	seek	2360	bar
+6075	5f789c0f824d13aba8eaee858292e846	kerrang	pause
+6076	5f789c0f824d13aba8eaee858292e846	kerrang	seek	2361	
+6076.5	5f789c0f824d13aba8eaee858292e846	kerrang	seek	2385	bar
+6090	5f789c0f824d13aba8eaee858292e846	kerrang	seek	0	shortcut My Chemical Romance - The Black Parade
+6115	5f789c0f824d13aba8eaee858292e846	kerrang	pause
+6116	5f789c0f824d13aba8eaee858292e846	kerrang	seek	24	
+6116.5	5f789c0f824d13aba8eaee858292e846	kerrang	seek	40	bar
+6117	5f789c0f824d13aba8eaee858292e846	kerrang	pause
+6118	5f789c0f824d13aba8eaee858292e846	kerrang	seek	65	bar
+6118.5	5f789c0f824d13aba8eaee858292e846	kerrang	seek	41	
+6124	5f789c0f824d13aba8eaee858292e846	kerrang	pause
+6125	5f789c0f824d13aba8eaee858292e846	kerrang	seek	72	
+6125.5	5f789c0f824d13aba8eaee858292e846	kerrang	seek	83	bar
+6281	5f789c0f824d13aba8eaee858292e846	kerrang	seek	255	shortcut Elliot Minor - Parallel Worlds
+6310	5f789c0f824d13aba8eaee858292e846	kerrang	seek	1598	shortcut Fall Out Boy - Thks Fr Th Mmrs
+6606	5f789c0f824d13aba8eaee858292e846	kerrang	pause
+6812	5f789c0f824d13aba8eaee858292e846	kerrang	stop
+6930	3d8d358fbc6f038741727fecaa6eb954	kerrang	stop
+7569	140e1394f762adcb79d58576eaaeaf85	kerrang	seek	0	restart
+7571	140e1394f762adcb79d58576eaaeaf85	kerrang	pause
+7601	140e1394f762adcb79d58576eaaeaf85	kerrang	stop
+7659	0bddad8b1ae12ad060030701581dcf7d	kerrang	seek	0	restart
+7667	0bddad8b1ae12ad060030701581dcf7d	kerrang	seek	933	shortcut Fall Out Boy - This Ain't a Scene
+7733	0bddad8b1ae12ad060030701581dcf7d	kerrang	seek	434	shortcut Red Hot Chilis - Hump De Bump
+8726	edd36c77ca4e77b0cebaf87288a605c6	kerrang	seek	0	restart
+8735	edd36c77ca4e77b0cebaf87288a605c6	kerrang	seek	18	fwd 10
+8737	edd36c77ca4e77b0cebaf87288a605c6	kerrang	seek	30	fwd 10
+8739	edd36c77ca4e77b0cebaf87288a605c6	kerrang	seek	91	fwd 60
+8740	edd36c77ca4e77b0cebaf87288a605c6	kerrang	seek	153	fwd 60
+8741	edd36c77ca4e77b0cebaf87288a605c6	kerrang	seek	214	fwd 60
+8742	edd36c77ca4e77b0cebaf87288a605c6	kerrang	seek	274	fwd 60
+8746	edd36c77ca4e77b0cebaf87288a605c6	kerrang	seek	337	fwd 60
+8747	edd36c77ca4e77b0cebaf87288a605c6	kerrang	seek	398	fwd 60
+8748	edd36c77ca4e77b0cebaf87288a605c6	kerrang	seek	458	fwd 60
+8749	edd36c77ca4e77b0cebaf87288a605c6	kerrang	seek	520	fwd 60
+8750	edd36c77ca4e77b0cebaf87288a605c6	kerrang	seek	580	fwd 60
+8751	edd36c77ca4e77b0cebaf87288a605c6	kerrang	seek	641	fwd 60
+8752	edd36c77ca4e77b0cebaf87288a605c6	kerrang	seek	701	fwd 60
+8790	edd36c77ca4e77b0cebaf87288a605c6	kerrang	seek	0	restart
+8820	edd36c77ca4e77b0cebaf87288a605c6	kerrang	stop
+10033	7e4771a2f2fdbb6967f17b1d6b760503	kerrang	seek	0	restart
+10040	7e4771a2f2fdbb6967f17b1d6b760503	kerrang	pause
+10042	7e4771a2f2fdbb6967f17b1d6b760503	kerrang	seek	6	
+10042.5	7e4771a2f2fdbb6967f17b1d6b760503	kerrang	seek	22	bar
+10050	7e4771a2f2fdbb6967f17b1d6b760503	kerrang	pause
+10052	7e4771a2f2fdbb6967f17b1d6b760503	kerrang	seek	54	bar
+10052.5	7e4771a2f2fdbb6967f17b1d6b760503	kerrang	seek	30	
+10063	7e4771a2f2fdbb6967f17b1d6b760503	kerrang	pause
+10064	7e4771a2f2fdbb6967f17b1d6b760503	kerrang	seek	66	
+10064.5	7e4771a2f2fdbb6967f17b1d6b760503	kerrang	seek	144	bar
+10094	7e4771a2f2fdbb6967f17b1d6b760503	kerrang	stop
+10501	62b2ad41e728325f1beafe2f51ff5dd5	kerrang	seek	0	restart
+10508	62b2ad41e728325f1beafe2f51ff5dd5	kerrang	seek	66	fwd 60
+10509	62b2ad41e728325f1beafe2f51ff5dd5	kerrang	seek	127	fwd 60
+10510	62b2ad41e728325f1beafe2f51ff5dd5	kerrang	seek	188	fwd 60
+10510.5	62b2ad41e728325f1beafe2f51ff5dd5	kerrang	seek	248	fwd 60
+10511	62b2ad41e728325f1beafe2f51ff5dd5	kerrang	seek	309	fwd 60
+10512	62b2ad41e728325f1beafe2f51ff5dd5	kerrang	seek	369	fwd 60
+10513	62b2ad41e728325f1beafe2f51ff5dd5	kerrang	seek	430	fwd 60
+10514	62b2ad41e728325f1beafe2f51ff5dd5	kerrang	seek	490	fwd 60
+10515	62b2ad41e728325f1beafe2f51ff5dd5	kerrang	seek	550	fwd 60
+10515.5	62b2ad41e728325f1beafe2f51ff5dd5	kerrang	seek	611	fwd 60
+10516	62b2ad41e728325f1beafe2f51ff5dd5	kerrang	seek	671	fwd 60
+10518	62b2ad41e728325f1beafe2f51ff5dd5	kerrang	seek	733	fwd 60
+10519	62b2ad41e728325f1beafe2f51ff5dd5	kerrang	seek	793	fwd 60
+10549	62b2ad41e728325f1beafe2f51ff5dd5	kerrang	stop
+12924	0bddad8b1ae12ad060030701581dcf7d	kerrang	stop
+12953	1fe6b857f3bd633a9dd63f08fd7ae09c	kerrang	seek	0	restart
+12976	1fe6b857f3bd633a9dd63f08fd7ae09c	kerrang	pause
+12977	1fe6b857f3bd633a9dd63f08fd7ae09c	kerrang	seek	42	bar
+12977.33	1fe6b857f3bd633a9dd63f08fd7ae09c	kerrang	seek	22	
+12977.67	1fe6b857f3bd633a9dd63f08fd7ae09c	kerrang	pause
+12978	1fe6b857f3bd633a9dd63f08fd7ae09c	kerrang	seek	43	
+12978.5	1fe6b857f3bd633a9dd63f08fd7ae09c	kerrang	seek	134	bar
+13013	1fe6b857f3bd633a9dd63f08fd7ae09c	kerrang	stop
+17980	89819ca1b02a49f9c480656776a11389	kerrang	seek	0	restart
+18001	89819ca1b02a49f9c480656776a11389	kerrang	seek	2129	shortcut Linkin Park - What I've Done
+18084	89819ca1b02a49f9c480656776a11389	kerrang	seek	434	shortcut Red Hot Chilis - Hump De Bump
+18890	89819ca1b02a49f9c480656776a11389	kerrang	seek	0	restart
+18902	89819ca1b02a49f9c480656776a11389	kerrang	seek	255	shortcut Elliot Minor - Parallel Worlds
+18913	89819ca1b02a49f9c480656776a11389	kerrang	pause
+18914	89819ca1b02a49f9c480656776a11389	kerrang	seek	266	
+18914.5	89819ca1b02a49f9c480656776a11389	kerrang	seek	1016	bar
+18919	89819ca1b02a49f9c480656776a11389	kerrang	seek	1598	shortcut Fall Out Boy - Thks Fr Th Mmrs
+18923	89819ca1b02a49f9c480656776a11389	kerrang	seek	255	shortcut Elliot Minor - Parallel Worlds
+18924	89819ca1b02a49f9c480656776a11389	kerrang	pause
+18925	89819ca1b02a49f9c480656776a11389	kerrang	seek	1298	bar
+18925.5	89819ca1b02a49f9c480656776a11389	kerrang	seek	257	
+18935	89819ca1b02a49f9c480656776a11389	kerrang	seek	933	shortcut Fall Out Boy - This Ain't a Scene
+18946	89819ca1b02a49f9c480656776a11389	kerrang	pause
+18947	89819ca1b02a49f9c480656776a11389	kerrang	seek	944	
+18947.5	89819ca1b02a49f9c480656776a11389	kerrang	seek	997	bar
+18953	89819ca1b02a49f9c480656776a11389	kerrang	pause
+18953.33	89819ca1b02a49f9c480656776a11389	kerrang	seek	1003	
+18953.67	89819ca1b02a49f9c480656776a11389	kerrang	seek	1152	bar
+18958	89819ca1b02a49f9c480656776a11389	kerrang	pause
+18958.33	89819ca1b02a49f9c480656776a11389	kerrang	seek	1157	
+18958.67	89819ca1b02a49f9c480656776a11389	kerrang	seek	1356	bar
+18960	89819ca1b02a49f9c480656776a11389	kerrang	seek	1348	back 10
+18960.5	89819ca1b02a49f9c480656776a11389	kerrang	seek	1338	back 10
+18962	89819ca1b02a49f9c480656776a11389	kerrang	seek	1349	fwd 10
+18962.33	89819ca1b02a49f9c480656776a11389	kerrang	seek	1359	fwd 10
+18962.67	89819ca1b02a49f9c480656776a11389	kerrang	seek	1369	fwd 10
+18963	89819ca1b02a49f9c480656776a11389	kerrang	seek	1379	fwd 10
+18963.5	89819ca1b02a49f9c480656776a11389	kerrang	seek	1389	fwd 10
+19022	89819ca1b02a49f9c480656776a11389	kerrang	seek	1598	shortcut Fall Out Boy - Thks Fr Th Mmrs
+19025	89819ca1b02a49f9c480656776a11389	kerrang	seek	1611	fwd 10
+19026	89819ca1b02a49f9c480656776a11389	kerrang	seek	1622	fwd 10
+19026.5	89819ca1b02a49f9c480656776a11389	kerrang	seek	1632	fwd 10
+19028	89819ca1b02a49f9c480656776a11389	kerrang	seek	1643	fwd 10
+19029	89819ca1b02a49f9c480656776a11389	kerrang	seek	1653	fwd 10
+19030	89819ca1b02a49f9c480656776a11389	kerrang	seek	1664	fwd 10
+19081	89819ca1b02a49f9c480656776a11389	kerrang	stop
+20226	45f4933caeb4254ed4c3df8e1a32d07e	kerrang	seek	0	restart
+20256	45f4933caeb4254ed4c3df8e1a32d07e	kerrang	stop
+25733	8a2cfa6febaaebdac3b4942db2620321	kerrang	seek	0	restart
+25742	8a2cfa6febaaebdac3b4942db2620321	kerrang	seek	2129	shortcut Linkin Park - What I've Done
+25744	8a2cfa6febaaebdac3b4942db2620321	kerrang	seek	1598	shortcut Fall Out Boy - Thks Fr Th Mmrs
+25774	8a2cfa6febaaebdac3b4942db2620321	kerrang	stop
+26397	4bb91438061fb2a3978f449226b654d3	kerrang	seek	0	restart
+26402	4bb91438061fb2a3978f449226b654d3	kerrang	seek	933	shortcut Fall Out Boy - This Ain't a Scene
+26494	4bb91438061fb2a3978f449226b654d3	kerrang	seek	255	shortcut Elliot Minor - Parallel Worlds
+26496	4bb91438061fb2a3978f449226b654d3	kerrang	seek	694	shortcut Funeral For A Friend - Obilvion
+26504	4bb91438061fb2a3978f449226b654d3	kerrang	seek	1179	shortcut Good Charlotte - The River
+26514	4bb91438061fb2a3978f449226b654d3	kerrang	seek	1598	shortcut Fall Out Boy - Thks Fr Th Mmrs
+26517	4bb91438061fb2a3978f449226b654d3	kerrang	seek	1611	fwd 10
+26519	4bb91438061fb2a3978f449226b654d3	kerrang	seek	1623	fwd 10
+26521	4bb91438061fb2a3978f449226b654d3	kerrang	seek	1634	fwd 10
+26522	4bb91438061fb2a3978f449226b654d3	kerrang	seek	1645	fwd 10
+26524	4bb91438061fb2a3978f449226b654d3	kerrang	seek	1656	fwd 10
+26545	4bb91438061fb2a3978f449226b654d3	kerrang	seek	2334	shortcut HelloGoodbye - Here (in your arms)
+26693	4bb91438061fb2a3978f449226b654d3	kerrang	seek	2493	fwd 10
+26694	4bb91438061fb2a3978f449226b654d3	kerrang	seek	2503	fwd 10
+26759	4bb91438061fb2a3978f449226b654d3	kerrang	seek	2129	shortcut Linkin Park - What I've Done
+26928	4bb91438061fb2a3978f449226b654d3	kerrang	stop
+30494	c65bda089209204487b890e381feeb35	kerrang	seek	0	restart
+30502	c65bda089209204487b890e381feeb35	kerrang	seek	67	fwd 60
+30505	c65bda089209204487b890e381feeb35	kerrang	seek	129	fwd 60
+30507	c65bda089209204487b890e381feeb35	kerrang	seek	190	fwd 60
+30508	c65bda089209204487b890e381feeb35	kerrang	seek	251	fwd 60
+30512	c65bda089209204487b890e381feeb35	kerrang	seek	315	fwd 60
+30514	c65bda089209204487b890e381feeb35	kerrang	seek	377	fwd 60
+30519	c65bda089209204487b890e381feeb35	kerrang	seek	501	fwd 60
+30520	c65bda089209204487b890e381feeb35	kerrang	seek	439	fwd 60
+30520.5	c65bda089209204487b890e381feeb35	kerrang	seek	562	fwd 60
+30524	c65bda089209204487b890e381feeb35	kerrang	seek	625	fwd 60
+30526	c65bda089209204487b890e381feeb35	kerrang	seek	686	fwd 60
+30564	c65bda089209204487b890e381feeb35	kerrang	stop
+30931	6f3994a9ff062d1e7c6afbbd4a71ead8	kerrang	seek	0	restart
+30941	6f3994a9ff062d1e7c6afbbd4a71ead8	kerrang	seek	1598	shortcut Fall Out Boy - Thks Fr Th Mmrs
+30971	6f3994a9ff062d1e7c6afbbd4a71ead8	kerrang	stop
+37996	b7898c5288d3afe258be401f4fd6e5d1	kerrang	seek	0	restart
+38003	b7898c5288d3afe258be401f4fd6e5d1	kerrang	seek	2334	shortcut HelloGoodbye - Here (in your arms)
+38016	b7898c5288d3afe258be401f4fd6e5d1	kerrang	pause
+38017	b7898c5288d3afe258be401f4fd6e5d1	kerrang	seek	2348	
+38017.5	b7898c5288d3afe258be401f4fd6e5d1	kerrang	seek	2371	bar
+38018	b7898c5288d3afe258be401f4fd6e5d1	kerrang	pause
+38018.33	b7898c5288d3afe258be401f4fd6e5d1	kerrang	seek	2372	
+38018.67	b7898c5288d3afe258be401f4fd6e5d1	kerrang	seek	2408	bar
+38019	b7898c5288d3afe258be401f4fd6e5d1	kerrang	pause
+38019.33	b7898c5288d3afe258be401f4fd6e5d1	kerrang	seek	2409	
+38019.67	b7898c5288d3afe258be401f4fd6e5d1	kerrang	seek	690	bar
+38025	b7898c5288d3afe258be401f4fd6e5d1	kerrang	pause
+38025.33	b7898c5288d3afe258be401f4fd6e5d1	kerrang	seek	696	
+38025.67	b7898c5288d3afe258be401f4fd6e5d1	kerrang	seek	674	bar
+38048	b7898c5288d3afe258be401f4fd6e5d1	kerrang	seek	1598	shortcut Fall Out Boy - Thks Fr Th Mmrs
+38078	b7898c5288d3afe258be401f4fd6e5d1	kerrang	stop
+54724	13f3dc122ef2492fe159c0749432fb82	kerrang	seek	0	restart
+54784	13f3dc122ef2492fe159c0749432fb82	kerrang	stop
+65077	c8644539bf753282ec24723fef864a4d	kerrang	seek	0	restart
+65107	c8644539bf753282ec24723fef864a4d	kerrang	stop
+71695	b9d4b8203a75a399dd4271aa148c647c	kerrang	seek	0	restart
+71775	b9d4b8203a75a399dd4271aa148c647c	kerrang	stop
+75484	9fd7e96f4dead888b69ec4e042caa30b	kerrang	seek	0	restart
+75494	9fd7e96f4dead888b69ec4e042caa30b	kerrang	seek	255	shortcut Elliot Minor - Parallel Worlds
+75495	9fd7e96f4dead888b69ec4e042caa30b	kerrang	seek	434	shortcut Red Hot Chilis - Hump De Bump
+75497	9fd7e96f4dead888b69ec4e042caa30b	kerrang	seek	694	shortcut Funeral For A Friend - Obilvion
+75500	9fd7e96f4dead888b69ec4e042caa30b	kerrang	seek	933	shortcut Fall Out Boy - This Ain't a Scene
+75501	9fd7e96f4dead888b69ec4e042caa30b	kerrang	seek	1179	shortcut Good Charlotte - The River
+75502	9fd7e96f4dead888b69ec4e042caa30b	kerrang	seek	1372	shortcut Avril Lavigne - Girlfriend
+75504	9fd7e96f4dead888b69ec4e042caa30b	kerrang	seek	1598	shortcut Fall Out Boy - Thks Fr Th Mmrs
+75511	9fd7e96f4dead888b69ec4e042caa30b	kerrang	seek	2129	shortcut Linkin Park - What I've Done
+75516	9fd7e96f4dead888b69ec4e042caa30b	kerrang	seek	2334	shortcut HelloGoodbye - Here (in your arms)
+75527	9fd7e96f4dead888b69ec4e042caa30b	kerrang	seek	2355	fwd 10
+75532	9fd7e96f4dead888b69ec4e042caa30b	kerrang	seek	2419	fwd 60
+75564	9fd7e96f4dead888b69ec4e042caa30b	kerrang	stop
+78741	15dcb12ab66f942cf0991427001c7adb	kerrang	seek	0	restart
+78751	15dcb12ab66f942cf0991427001c7adb	kerrang	seek	0	restart
+78791	15dcb12ab66f942cf0991427001c7adb	kerrang	stop
+82773	82c5382ea82b1cf437f1eaeb2a0874d1	kerrang	seek	0	restart
+82808	ed83ea63a20aa880232d750edb4d86de	kerrang	seek	0	restart
+82812	ed83ea63a20aa880232d750edb4d86de	kerrang	pause
+82816	ed83ea63a20aa880232d750edb4d86de	kerrang	seek	3	
+82827	ed83ea63a20aa880232d750edb4d86de	kerrang	seek	2334	shortcut HelloGoodbye - Here (in your arms)
+82832	ed83ea63a20aa880232d750edb4d86de	kerrang	pause
+82832.33	ed83ea63a20aa880232d750edb4d86de	kerrang	seek	2380	bar
+82832.67	ed83ea63a20aa880232d750edb4d86de	kerrang	seek	2339	
+82838	ed83ea63a20aa880232d750edb4d86de	kerrang	seek	434	shortcut Red Hot Chilis - Hump De Bump
+82846	ed83ea63a20aa880232d750edb4d86de	kerrang	pause
+82846.33	ed83ea63a20aa880232d750edb4d86de	kerrang	seek	442	
+82846.67	ed83ea63a20aa880232d750edb4d86de	kerrang	seek	470	bar
+82848	ed83ea63a20aa880232d750edb4d86de	kerrang	pause
+82849	ed83ea63a20aa880232d750edb4d86de	kerrang	seek	483	bar
+82849.5	ed83ea63a20aa880232d750edb4d86de	kerrang	seek	472	
+82853	82c5382ea82b1cf437f1eaeb2a0874d1	kerrang	stop
+82865	82c5382ea82b1cf437f1eaeb2a0874d1	kerrang	seek	0	restart
+82867	82c5382ea82b1cf437f1eaeb2a0874d1	kerrang	seek	1372	shortcut Avril Lavigne - Girlfriend
+82898	ed83ea63a20aa880232d750edb4d86de	kerrang	stop
+82910	82c5382ea82b1cf437f1eaeb2a0874d1	kerrang	seek	933	shortcut Fall Out Boy - This Ain't a Scene
+82996	82c5382ea82b1cf437f1eaeb2a0874d1	kerrang	stop
+85060	2f8e4f632614444c9bec7133c0c06b87	kerrang	seek	0	restart
+85062	2f8e4f632614444c9bec7133c0c06b87	kerrang	seek	0	shortcut My Chemical Romance - The Black Parade
+85063	2f8e4f632614444c9bec7133c0c06b87	kerrang	seek	255	shortcut Elliot Minor - Parallel Worlds
+85065	2f8e4f632614444c9bec7133c0c06b87	kerrang	seek	434	shortcut Red Hot Chilis - Hump De Bump
+85066	2f8e4f632614444c9bec7133c0c06b87	kerrang	seek	694	shortcut Funeral For A Friend - Obilvion
+85069	2f8e4f632614444c9bec7133c0c06b87	kerrang	seek	933	shortcut Fall Out Boy - This Ain't a Scene
+85099	2f8e4f632614444c9bec7133c0c06b87	kerrang	seek	1598	shortcut Fall Out Boy - Thks Fr Th Mmrs
+85107	2f8e4f632614444c9bec7133c0c06b87	kerrang	seek	1616	fwd 10
+85108	2f8e4f632614444c9bec7133c0c06b87	kerrang	seek	1627	fwd 10
+85109	2f8e4f632614444c9bec7133c0c06b87	kerrang	seek	1638	fwd 10
+85111	2f8e4f632614444c9bec7133c0c06b87	kerrang	seek	1649	fwd 10
+85114	2f8e4f632614444c9bec7133c0c06b87	kerrang	seek	2129	shortcut Linkin Park - What I've Done
+85117	2f8e4f632614444c9bec7133c0c06b87	kerrang	seek	2141	fwd 10
+85118	2f8e4f632614444c9bec7133c0c06b87	kerrang	seek	2152	fwd 10
+85120	2f8e4f632614444c9bec7133c0c06b87	kerrang	seek	2163	fwd 10
+85122	2f8e4f632614444c9bec7133c0c06b87	kerrang	seek	2175	fwd 10
+85124	2f8e4f632614444c9bec7133c0c06b87	kerrang	seek	434	shortcut Red Hot Chilis - Hump De Bump
+85126	2f8e4f632614444c9bec7133c0c06b87	kerrang	seek	446	fwd 10
+85128	2f8e4f632614444c9bec7133c0c06b87	kerrang	seek	457	fwd 10
+85129	2f8e4f632614444c9bec7133c0c06b87	kerrang	seek	469	fwd 10
+85131	2f8e4f632614444c9bec7133c0c06b87	kerrang	seek	480	fwd 10
+85132	2f8e4f632614444c9bec7133c0c06b87	kerrang	seek	490	fwd 10
+85133	2f8e4f632614444c9bec7133c0c06b87	kerrang	seek	551	fwd 60
+85137	2f8e4f632614444c9bec7133c0c06b87	kerrang	seek	615	fwd 60
+85167	2f8e4f632614444c9bec7133c0c06b87	kerrang	stop
+89538	e9702733a6a485642f82acb0e981d2d3	kerrang	seek	0	restart
+89553	e9702733a6a485642f82acb0e981d2d3	kerrang	seek	2129	shortcut Linkin Park - What I've Done
+89648	e9702733a6a485642f82acb0e981d2d3	kerrang	stop
+93460	672637808731e8ee864adfab55060237	kerrang	seek	0	restart
+93480	672637808731e8ee864adfab55060237	kerrang	seek	0	shortcut My Chemical Romance - The Black Parade
+93486	672637808731e8ee864adfab55060237	kerrang	seek	255	shortcut Elliot Minor - Parallel Worlds
+93489	672637808731e8ee864adfab55060237	kerrang	seek	434	shortcut Red Hot Chilis - Hump De Bump
+93591	672637808731e8ee864adfab55060237	kerrang	stop
+94304	530a425430f03bd7b817fad13b9ab4a7	kerrang	seek	0	restart
+94306	530a425430f03bd7b817fad13b9ab4a7	kerrang	seek	694	shortcut Funeral For A Friend - Obilvion
+94308	530a425430f03bd7b817fad13b9ab4a7	kerrang	seek	706	fwd 10
+94309	530a425430f03bd7b817fad13b9ab4a7	kerrang	seek	717	fwd 10
+94458	530a425430f03bd7b817fad13b9ab4a7	kerrang	seek	0	restart
+94488	530a425430f03bd7b817fad13b9ab4a7	kerrang	stop
+118625	91932d7080fb4ac0f68eae169311171e	kerrang	seek	0	restart
+119041	91932d7080fb4ac0f68eae169311171e	kerrang	seek	434	shortcut Red Hot Chilis - Hump De Bump
+120169	91932d7080fb4ac0f68eae169311171e	kerrang	seek	1598	shortcut Fall Out Boy - Thks Fr Th Mmrs
+120439	91932d7080fb4ac0f68eae169311171e	kerrang	seek	2129	shortcut Linkin Park - What I've Done
+120861	91932d7080fb4ac0f68eae169311171e	kerrang	pause
+120894	91932d7080fb4ac0f68eae169311171e	kerrang	stop
+140644	0faf6eb6b04f21170914281fab477021	kerrang	seek	0	restart
+140655	0faf6eb6b04f21170914281fab477021	kerrang	seek	255	shortcut Elliot Minor - Parallel Worlds
+140678	0faf6eb6b04f21170914281fab477021	kerrang	seek	434	shortcut Red Hot Chilis - Hump De Bump
+140739	0faf6eb6b04f21170914281fab477021	kerrang	seek	694	shortcut Funeral For A Friend - Obilvion
+140766	0faf6eb6b04f21170914281fab477021	kerrang	seek	933	shortcut Fall Out Boy - This Ain't a Scene
+140786	0faf6eb6b04f21170914281fab477021	kerrang	seek	1372	shortcut Avril Lavigne - Girlfriend
+140830	0faf6eb6b04f21170914281fab477021	kerrang	seek	1598	shortcut Fall Out Boy - Thks Fr Th Mmrs
+140916	0faf6eb6b04f21170914281fab477021	kerrang	seek	2334	shortcut HelloGoodbye - Here (in your arms)
+140976	0faf6eb6b04f21170914281fab477021	kerrang	stop
+151231	50f443e270ba8ff9cdad9c40f0d40870	kerrang	seek	0	restart
+151232	50f443e270ba8ff9cdad9c40f0d40870	kerrang	pause
+151262	50f443e270ba8ff9cdad9c40f0d40870	kerrang	stop
+162588	0bddad8b1ae12ad060030701581dcf7d	kerrang	seek	0	restart
+162598	0bddad8b1ae12ad060030701581dcf7d	kerrang	seek	1598	shortcut Fall Out Boy - Thks Fr Th Mmrs
+162729	0bddad8b1ae12ad060030701581dcf7d	kerrang	stop
+163017	744bc447c514f250fc621c058498fa2b	kerrang	seek	0	restart
+163067	744bc447c514f250fc621c058498fa2b	kerrang	stop
+165675	c8644539bf753282ec24723fef864a4d	kerrang	seek	0	restart
+165705	c8644539bf753282ec24723fef864a4d	kerrang	stop
+172157	35c6535b532eb89fcebf8254939ce783	kerrang	seek	0	restart
+172172	35c6535b532eb89fcebf8254939ce783	kerrang	pause
+172227	35c6535b532eb89fcebf8254939ce783	kerrang	stop
+172380	8c076aa6883249503a023f618c106854	kerrang	seek	0	restart
+172387	8c076aa6883249503a023f618c106854	kerrang	seek	16	fwd 10
+172388	8c076aa6883249503a023f618c106854	kerrang	seek	27	fwd 10
+172389	8c076aa6883249503a023f618c106854	kerrang	seek	37	fwd 10
+172390	8c076aa6883249503a023f618c106854	kerrang	seek	48	fwd 10
+172391	8c076aa6883249503a023f618c106854	kerrang	seek	59	fwd 10
+172392	8c076aa6883249503a023f618c106854	kerrang	seek	69	fwd 10
+172392.5	8c076aa6883249503a023f618c106854	kerrang	seek	80	fwd 10
+172393	8c076aa6883249503a023f618c106854	kerrang	seek	90	fwd 10
+172394	8c076aa6883249503a023f618c106854	kerrang	seek	101	fwd 10
+172395	8c076aa6883249503a023f618c106854	kerrang	seek	111	fwd 10
+172396	8c076aa6883249503a023f618c106854	kerrang	seek	122	fwd 10
+172430	8c076aa6883249503a023f618c106854	kerrang	stop
+173047	1798b587e9ad414a416c28f7afa9a622	kerrang	seek	0	restart
+173052	1798b587e9ad414a416c28f7afa9a622	kerrang	pause
+173082	1798b587e9ad414a416c28f7afa9a622	kerrang	stop
+179925	9473033504ed6a3e62bc7d522bb4768e	kerrang	seek	0	restart
+179975	9473033504ed6a3e62bc7d522bb4768e	kerrang	seek	2129	shortcut Linkin Park - What I've Done
+179995	9473033504ed6a3e62bc7d522bb4768e	kerrang	pause
+179995.33	9473033504ed6a3e62bc7d522bb4768e	kerrang	seek	2148	
+179995.67	9473033504ed6a3e62bc7d522bb4768e	kerrang	seek	2155	bar
+180026	9473033504ed6a3e62bc7d522bb4768e	kerrang	stop
+190259	322ef7d59f405965da31b6f1d0a97eac	kerrang	seek	0	restart
+190275	52cfd0b87a4eba36ebce46205202c184	kerrang	seek	0	restart
+190299	322ef7d59f405965da31b6f1d0a97eac	kerrang	stop
+190302	52cfd0b87a4eba36ebce46205202c184	kerrang	seek	1372	shortcut Avril Lavigne - Girlfriend
+190465	322ef7d59f405965da31b6f1d0a97eac	kerrang	seek	0	restart
+190468	322ef7d59f405965da31b6f1d0a97eac	kerrang	seek	255	shortcut Elliot Minor - Parallel Worlds
+190469	322ef7d59f405965da31b6f1d0a97eac	kerrang	seek	434	shortcut Red Hot Chilis - Hump De Bump
+190475	322ef7d59f405965da31b6f1d0a97eac	kerrang	seek	694	shortcut Funeral For A Friend - Obilvion
+190478	322ef7d59f405965da31b6f1d0a97eac	kerrang	seek	1179	shortcut Good Charlotte - The River
+190483	322ef7d59f405965da31b6f1d0a97eac	kerrang	seek	1372	shortcut Avril Lavigne - Girlfriend
+190544	52cfd0b87a4eba36ebce46205202c184	kerrang	seek	2334	shortcut HelloGoodbye - Here (in your arms)
+190637	52cfd0b87a4eba36ebce46205202c184	kerrang	stop
+190726	322ef7d59f405965da31b6f1d0a97eac	kerrang	pause
+190726.33	322ef7d59f405965da31b6f1d0a97eac	kerrang	seek	1614	
+190726.67	322ef7d59f405965da31b6f1d0a97eac	kerrang	seek	1613	bar
+190727	322ef7d59f405965da31b6f1d0a97eac	kerrang	pause
+190728	322ef7d59f405965da31b6f1d0a97eac	kerrang	seek	1614	
+190728.5	322ef7d59f405965da31b6f1d0a97eac	kerrang	seek	1655	bar
+190732	322ef7d59f405965da31b6f1d0a97eac	kerrang	pause
+190733	322ef7d59f405965da31b6f1d0a97eac	kerrang	seek	1660	
+190733.5	322ef7d59f405965da31b6f1d0a97eac	kerrang	seek	1738	bar
+190737	322ef7d59f405965da31b6f1d0a97eac	kerrang	seek	2129	shortcut Linkin Park - What I've Done
+190787	322ef7d59f405965da31b6f1d0a97eac	kerrang	pause
+190787.33	322ef7d59f405965da31b6f1d0a97eac	kerrang	seek	2179	
+190787.67	322ef7d59f405965da31b6f1d0a97eac	kerrang	seek	2211	bar
+190803	322ef7d59f405965da31b6f1d0a97eac	kerrang	pause
+190803.33	322ef7d59f405965da31b6f1d0a97eac	kerrang	seek	2227	
+190803.67	322ef7d59f405965da31b6f1d0a97eac	kerrang	seek	2305	bar
+190805	322ef7d59f405965da31b6f1d0a97eac	kerrang	pause
+190805.33	322ef7d59f405965da31b6f1d0a97eac	kerrang	seek	2306	
+190805.67	322ef7d59f405965da31b6f1d0a97eac	kerrang	seek	2372	bar
+190821	322ef7d59f405965da31b6f1d0a97eac	kerrang	pause
+190821.33	322ef7d59f405965da31b6f1d0a97eac	kerrang	seek	2388	
+190821.67	322ef7d59f405965da31b6f1d0a97eac	kerrang	seek	1874	bar
+190824	322ef7d59f405965da31b6f1d0a97eac	kerrang	pause
+190824.33	322ef7d59f405965da31b6f1d0a97eac	kerrang	seek	1877	
+190824.67	322ef7d59f405965da31b6f1d0a97eac	kerrang	seek	1838	bar
+190825	322ef7d59f405965da31b6f1d0a97eac	kerrang	pause
+190825.33	322ef7d59f405965da31b6f1d0a97eac	kerrang	seek	1839	
+190825.67	322ef7d59f405965da31b6f1d0a97eac	kerrang	seek	1876	bar
+190826	322ef7d59f405965da31b6f1d0a97eac	kerrang	pause
+190826.25	322ef7d59f405965da31b6f1d0a97eac	kerrang	seek	1877	
+190826.5	322ef7d59f405965da31b6f1d0a97eac	kerrang	seek	1930	bar
+190826.75	322ef7d59f405965da31b6f1d0a97eac	kerrang	pause
+190827	322ef7d59f405965da31b6f1d0a97eac	kerrang	seek	1930	
+190827.33	322ef7d59f405965da31b6f1d0a97eac	kerrang	seek	1917	bar
+190827.67	322ef7d59f405965da31b6f1d0a97eac	kerrang	pause
+190828	322ef7d59f405965da31b6f1d0a97eac	kerrang	seek	1918	
+190828.5	322ef7d59f405965da31b6f1d0a97eac	kerrang	seek	970	bar
+190833	322ef7d59f405965da31b6f1d0a97eac	kerrang	pause
+190834	322ef7d59f405965da31b6f1d0a97eac	kerrang	seek	976	
+190834.5	322ef7d59f405965da31b6f1d0a97eac	kerrang	seek	1024	bar
+190835	322ef7d59f405965da31b6f1d0a97eac	kerrang	pause
+190836	322ef7d59f405965da31b6f1d0a97eac	kerrang	seek	1025	
+190836.5	322ef7d59f405965da31b6f1d0a97eac	kerrang	seek	1091	bar
+190932	322ef7d59f405965da31b6f1d0a97eac	kerrang	pause
+190932.33	322ef7d59f405965da31b6f1d0a97eac	kerrang	seek	1187	
+190932.67	322ef7d59f405965da31b6f1d0a97eac	kerrang	seek	1228	bar
+190936	322ef7d59f405965da31b6f1d0a97eac	kerrang	pause
+190936.33	322ef7d59f405965da31b6f1d0a97eac	kerrang	seek	1231	
+190936.67	322ef7d59f405965da31b6f1d0a97eac	kerrang	seek	1251	bar
+190968	322ef7d59f405965da31b6f1d0a97eac	kerrang	stop
+194039	f2a478e0ca405df7fd2b4632dec90080	kerrang	seek	0	restart
+194054	f2a478e0ca405df7fd2b4632dec90080	kerrang	seek	24	fwd 10
+194059	f2a478e0ca405df7fd2b4632dec90080	kerrang	seek	38	fwd 10
+194073	f2a478e0ca405df7fd2b4632dec90080	kerrang	seek	933	shortcut Fall Out Boy - This Ain't a Scene
+194291	f2a478e0ca405df7fd2b4632dec90080	kerrang	stop
+197411	33e9934fb0c24c4cf086b57cdca8c1ed	kerrang	seek	0	restart
+197421	33e9934fb0c24c4cf086b57cdca8c1ed	kerrang	pause
+197421.33	33e9934fb0c24c4cf086b57cdca8c1ed	kerrang	seek	9	
+197421.67	33e9934fb0c24c4cf086b57cdca8c1ed	kerrang	seek	29	bar
+197422	33e9934fb0c24c4cf086b57cdca8c1ed	kerrang	pause
+197422.33	33e9934fb0c24c4cf086b57cdca8c1ed	kerrang	seek	30	
+197422.67	33e9934fb0c24c4cf086b57cdca8c1ed	kerrang	seek	79	bar
+197423	33e9934fb0c24c4cf086b57cdca8c1ed	kerrang	pause
+197423.33	33e9934fb0c24c4cf086b57cdca8c1ed	kerrang	seek	80	
+197423.67	33e9934fb0c24c4cf086b57cdca8c1ed	kerrang	seek	150	bar
+197424	33e9934fb0c24c4cf086b57cdca8c1ed	kerrang	pause
+197425	33e9934fb0c24c4cf086b57cdca8c1ed	kerrang	seek	151	
+197425.5	33e9934fb0c24c4cf086b57cdca8c1ed	kerrang	seek	304	bar
+197435	33e9934fb0c24c4cf086b57cdca8c1ed	kerrang	seek	0	shortcut My Chemical Romance - The Black Parade
+197438	33e9934fb0c24c4cf086b57cdca8c1ed	kerrang	seek	434	shortcut Red Hot Chilis - Hump De Bump
+197551	33e9934fb0c24c4cf086b57cdca8c1ed	kerrang	seek	1372	shortcut Avril Lavigne - Girlfriend
+197584	33e9934fb0c24c4cf086b57cdca8c1ed	kerrang	seek	2129	shortcut Linkin Park - What I've Done
+198667	33e9934fb0c24c4cf086b57cdca8c1ed	kerrang	stop
+202113	fb2bbbb98dbae9e6ec4821e512077928	kerrang	seek	0	restart
+202117	fb2bbbb98dbae9e6ec4821e512077928	kerrang	seek	255	shortcut Elliot Minor - Parallel Worlds
+202119	fb2bbbb98dbae9e6ec4821e512077928	kerrang	seek	434	shortcut Red Hot Chilis - Hump De Bump
+202150	fb2bbbb98dbae9e6ec4821e512077928	kerrang	pause
+202151	fb2bbbb98dbae9e6ec4821e512077928	kerrang	seek	465	
+202151.33	fb2bbbb98dbae9e6ec4821e512077928	kerrang	seek	498	bar
+202151.67	fb2bbbb98dbae9e6ec4821e512077928	kerrang	pause
+202152	fb2bbbb98dbae9e6ec4821e512077928	kerrang	seek	499	
+202152.5	fb2bbbb98dbae9e6ec4821e512077928	kerrang	seek	556	bar
+202154	fb2bbbb98dbae9e6ec4821e512077928	kerrang	pause
+202154.33	fb2bbbb98dbae9e6ec4821e512077928	kerrang	seek	558	
+202154.67	fb2bbbb98dbae9e6ec4821e512077928	kerrang	seek	523	bar
+202157	fb2bbbb98dbae9e6ec4821e512077928	kerrang	pause
+202158	fb2bbbb98dbae9e6ec4821e512077928	kerrang	seek	526	
+202158.33	fb2bbbb98dbae9e6ec4821e512077928	kerrang	seek	512	bar
+202158.67	fb2bbbb98dbae9e6ec4821e512077928	kerrang	pause
+202159	fb2bbbb98dbae9e6ec4821e512077928	kerrang	seek	513	
+202159.5	fb2bbbb98dbae9e6ec4821e512077928	kerrang	seek	500	bar
+202160	fb2bbbb98dbae9e6ec4821e512077928	kerrang	pause
+202160.33	fb2bbbb98dbae9e6ec4821e512077928	kerrang	seek	501	
+202160.67	fb2bbbb98dbae9e6ec4821e512077928	kerrang	seek	483	bar
+202161	fb2bbbb98dbae9e6ec4821e512077928	kerrang	pause
+202161.33	fb2bbbb98dbae9e6ec4821e512077928	kerrang	seek	484	
+202161.67	fb2bbbb98dbae9e6ec4821e512077928	kerrang	seek	475	bar
+202162	fb2bbbb98dbae9e6ec4821e512077928	kerrang	pause
+202163	fb2bbbb98dbae9e6ec4821e512077928	kerrang	seek	476	
+202163.5	fb2bbbb98dbae9e6ec4821e512077928	kerrang	seek	454	bar
+202223	fb2bbbb98dbae9e6ec4821e512077928	kerrang	seek	694	shortcut Funeral For A Friend - Obilvion
+202234	fb2bbbb98dbae9e6ec4821e512077928	kerrang	pause
+202235	fb2bbbb98dbae9e6ec4821e512077928	kerrang	seek	705	
+202235.5	fb2bbbb98dbae9e6ec4821e512077928	kerrang	seek	721	bar
+202239	fb2bbbb98dbae9e6ec4821e512077928	kerrang	seek	933	shortcut Fall Out Boy - This Ain't a Scene
+202475	fb2bbbb98dbae9e6ec4821e512077928	kerrang	pause
+202476	fb2bbbb98dbae9e6ec4821e512077928	kerrang	seek	1169	
+202476.5	fb2bbbb98dbae9e6ec4821e512077928	kerrang	seek	1101	bar
+202477	fb2bbbb98dbae9e6ec4821e512077928	kerrang	pause
+202478	fb2bbbb98dbae9e6ec4821e512077928	kerrang	seek	1102	
+202478.33	fb2bbbb98dbae9e6ec4821e512077928	kerrang	seek	1030	bar
+202478.67	fb2bbbb98dbae9e6ec4821e512077928	kerrang	pause
+202479	fb2bbbb98dbae9e6ec4821e512077928	kerrang	seek	1031	
+202479.5	fb2bbbb98dbae9e6ec4821e512077928	kerrang	seek	1018	bar
+202480	fb2bbbb98dbae9e6ec4821e512077928	kerrang	pause
+202480.33	fb2bbbb98dbae9e6ec4821e512077928	kerrang	seek	1019	
+202480.67	fb2bbbb98dbae9e6ec4821e512077928	kerrang	seek	980	bar
+202577	fb2bbbb98dbae9e6ec4821e512077928	kerrang	seek	1598	shortcut Fall Out Boy - Thks Fr Th Mmrs
+202757	fb2bbbb98dbae9e6ec4821e512077928	kerrang	stop
+203893	a55559c980817b0cc17c42115aa934b1	kerrang	seek	0	restart
+203902	a55559c980817b0cc17c42115aa934b1	kerrang	seek	255	shortcut Elliot Minor - Parallel Worlds
+203905	a55559c980817b0cc17c42115aa934b1	kerrang	seek	434	shortcut Red Hot Chilis - Hump De Bump
+203919	a55559c980817b0cc17c42115aa934b1	kerrang	seek	0	restart
+203920	a55559c980817b0cc17c42115aa934b1	kerrang	seek	1372	shortcut Avril Lavigne - Girlfriend
+203930	a55559c980817b0cc17c42115aa934b1	kerrang	seek	2129	shortcut Linkin Park - What I've Done
+203939	a55559c980817b0cc17c42115aa934b1	kerrang	seek	1598	shortcut Fall Out Boy - Thks Fr Th Mmrs
+203964	a55559c980817b0cc17c42115aa934b1	kerrang	seek	933	shortcut Fall Out Boy - This Ain't a Scene
+203976	a55559c980817b0cc17c42115aa934b1	kerrang	seek	2334	shortcut HelloGoodbye - Here (in your arms)
+204003	a55559c980817b0cc17c42115aa934b1	kerrang	seek	2422	fwd 60
+204011	a55559c980817b0cc17c42115aa934b1	kerrang	seek	694	shortcut Funeral For A Friend - Obilvion
+204014	a55559c980817b0cc17c42115aa934b1	kerrang	seek	933	shortcut Fall Out Boy - This Ain't a Scene
+204016	a55559c980817b0cc17c42115aa934b1	kerrang	seek	1179	shortcut Good Charlotte - The River
+204029	a55559c980817b0cc17c42115aa934b1	kerrang	seek	1252	fwd 60
+204045	a55559c980817b0cc17c42115aa934b1	kerrang	seek	1598	shortcut Fall Out Boy - Thks Fr Th Mmrs
+204048	a55559c980817b0cc17c42115aa934b1	kerrang	seek	1661	fwd 60
+204120	a55559c980817b0cc17c42115aa934b1	kerrang	stop
+211057	700f7c1edf9ab123659f689ca8984579	kerrang	seek	0	restart
+211127	700f7c1edf9ab123659f689ca8984579	kerrang	stop
+226229	dc0254bfa32c4d235c8180c0033f020b	kerrang	seek	0	restart
+226289	dc0254bfa32c4d235c8180c0033f020b	kerrang	stop
+259119	e506dd2871d6fc5078dc33f2f9dd099f	kerrang	seek	0	restart
+259132	e506dd2871d6fc5078dc33f2f9dd099f	kerrang	pause
+259162	e506dd2871d6fc5078dc33f2f9dd099f	kerrang	stop
+265690	0cd24529d991f1549feddbdfea36cd19	kerrang	seek	0	restart
+265713	0cd24529d991f1549feddbdfea36cd19	kerrang	pause
+265713.33	0cd24529d991f1549feddbdfea36cd19	kerrang	seek	21	
+265713.67	0cd24529d991f1549feddbdfea36cd19	kerrang	seek	108	bar
+265714	0cd24529d991f1549feddbdfea36cd19	kerrang	pause
+265714.33	0cd24529d991f1549feddbdfea36cd19	kerrang	seek	109	
+265714.67	0cd24529d991f1549feddbdfea36cd19	kerrang	seek	162	bar
+265715	0cd24529d991f1549feddbdfea36cd19	kerrang	pause
+265716	0cd24529d991f1549feddbdfea36cd19	kerrang	seek	164	
+265716.5	0cd24529d991f1549feddbdfea36cd19	kerrang	seek	196	bar
+265738	0cd24529d991f1549feddbdfea36cd19	kerrang	pause
+265738.33	0cd24529d991f1549feddbdfea36cd19	kerrang	seek	219	
+265738.67	0cd24529d991f1549feddbdfea36cd19	kerrang	seek	255	bar
+265741	0cd24529d991f1549feddbdfea36cd19	kerrang	pause
+265741.33	0cd24529d991f1549feddbdfea36cd19	kerrang	seek	258	
+265741.67	0cd24529d991f1549feddbdfea36cd19	kerrang	seek	240	bar
+265880	0cd24529d991f1549feddbdfea36cd19	kerrang	pause
+265883	0cd24529d991f1549feddbdfea36cd19	kerrang	seek	378	
+265883.5	0cd24529d991f1549feddbdfea36cd19	kerrang	seek	431	bar
+265886	0cd24529d991f1549feddbdfea36cd19	kerrang	pause
+265886.25	0cd24529d991f1549feddbdfea36cd19	kerrang	seek	434	
+265886.5	0cd24529d991f1549feddbdfea36cd19	kerrang	seek	441	bar
+265886.75	0cd24529d991f1549feddbdfea36cd19	kerrang	pause
+265887	0cd24529d991f1549feddbdfea36cd19	kerrang	seek	442	
+265887.5	0cd24529d991f1549feddbdfea36cd19	kerrang	seek	462	bar
+265900	0cd24529d991f1549feddbdfea36cd19	kerrang	pause
+265901	0cd24529d991f1549feddbdfea36cd19	kerrang	seek	476	
+265901.5	0cd24529d991f1549feddbdfea36cd19	kerrang	seek	454	bar
+265902	0cd24529d991f1549feddbdfea36cd19	kerrang	pause
+265903	0cd24529d991f1549feddbdfea36cd19	kerrang	seek	456	
+265903.5	0cd24529d991f1549feddbdfea36cd19	kerrang	seek	434	bar
+265905	0cd24529d991f1549feddbdfea36cd19	kerrang	pause
+265906	0cd24529d991f1549feddbdfea36cd19	kerrang	seek	437	
+265906.5	0cd24529d991f1549feddbdfea36cd19	kerrang	seek	427	bar
+265985	0cd24529d991f1549feddbdfea36cd19	kerrang	pause
+265986	0cd24529d991f1549feddbdfea36cd19	kerrang	seek	506	
+265986.5	0cd24529d991f1549feddbdfea36cd19	kerrang	seek	646	bar
+265988	0cd24529d991f1549feddbdfea36cd19	kerrang	pause
+265988.33	0cd24529d991f1549feddbdfea36cd19	kerrang	seek	649	
+265988.67	0cd24529d991f1549feddbdfea36cd19	kerrang	seek	781	bar
+265997	0cd24529d991f1549feddbdfea36cd19	kerrang	pause
+265998	0cd24529d991f1549feddbdfea36cd19	kerrang	seek	790	
+265998.5	0cd24529d991f1549feddbdfea36cd19	kerrang	seek	931	bar
+266005	0cd24529d991f1549feddbdfea36cd19	kerrang	pause
+266006	0cd24529d991f1549feddbdfea36cd19	kerrang	seek	939	
+266006.5	0cd24529d991f1549feddbdfea36cd19	kerrang	seek	929	bar
+266008	0cd24529d991f1549feddbdfea36cd19	kerrang	pause
+266008.33	0cd24529d991f1549feddbdfea36cd19	kerrang	seek	931	
+266008.67	0cd24529d991f1549feddbdfea36cd19	kerrang	seek	975	bar
+266021	0cd24529d991f1549feddbdfea36cd19	kerrang	pause
+266021.33	0cd24529d991f1549feddbdfea36cd19	kerrang	seek	988	
+266021.67	0cd24529d991f1549feddbdfea36cd19	kerrang	seek	1040	bar
+266023	0cd24529d991f1549feddbdfea36cd19	kerrang	pause
+266024	0cd24529d991f1549feddbdfea36cd19	kerrang	seek	1042	
+266024.5	0cd24529d991f1549feddbdfea36cd19	kerrang	seek	1079	bar
+266037	0cd24529d991f1549feddbdfea36cd19	kerrang	pause
+266037.33	0cd24529d991f1549feddbdfea36cd19	kerrang	seek	1092	
+266037.67	0cd24529d991f1549feddbdfea36cd19	kerrang	seek	1200	bar
+266041	0cd24529d991f1549feddbdfea36cd19	kerrang	pause
+266042	0cd24529d991f1549feddbdfea36cd19	kerrang	seek	1203	
+266042.5	0cd24529d991f1549feddbdfea36cd19	kerrang	seek	1269	bar
+266045	0cd24529d991f1549feddbdfea36cd19	kerrang	pause
+266045.33	0cd24529d991f1549feddbdfea36cd19	kerrang	seek	1272	
+266045.67	0cd24529d991f1549feddbdfea36cd19	kerrang	seek	1409	bar
+266055	0cd24529d991f1549feddbdfea36cd19	kerrang	pause
+266055.33	0cd24529d991f1549feddbdfea36cd19	kerrang	seek	1419	
+266055.67	0cd24529d991f1549feddbdfea36cd19	kerrang	seek	1677	bar
+266060	0cd24529d991f1549feddbdfea36cd19	kerrang	pause
+266060.33	0cd24529d991f1549feddbdfea36cd19	kerrang	seek	1682	
+266060.67	0cd24529d991f1549feddbdfea36cd19	kerrang	seek	1964	bar
+266092	0cd24529d991f1549feddbdfea36cd19	kerrang	stop
+357661	7302612cfe021f974dc92c5f83ea4606	kerrang	seek	0	restart
+357691	7302612cfe021f974dc92c5f83ea4606	kerrang	stop
+376386	a46eda4bba5eac309b49f947be489367	kerrang	seek	0	restart
+376400	a46eda4bba5eac309b49f947be489367	kerrang	seek	73	fwd 60
+376402	a46eda4bba5eac309b49f947be489367	kerrang	seek	135	fwd 60
+376402.5	a46eda4bba5eac309b49f947be489367	kerrang	seek	195	fwd 60
+376403	a46eda4bba5eac309b49f947be489367	kerrang	seek	255	fwd 60
+376403.5	a46eda4bba5eac309b49f947be489367	kerrang	seek	315	fwd 60
+376405	a46eda4bba5eac309b49f947be489367	kerrang	seek	377	fwd 60
+376406	a46eda4bba5eac309b49f947be489367	kerrang	seek	437	fwd 60
+376407	a46eda4bba5eac309b49f947be489367	kerrang	seek	497	fwd 60
+376408	a46eda4bba5eac309b49f947be489367	kerrang	seek	558	fwd 60
+376409	a46eda4bba5eac309b49f947be489367	kerrang	seek	618	fwd 60
+376410	a46eda4bba5eac309b49f947be489367	kerrang	seek	679	fwd 60
+376424	a46eda4bba5eac309b49f947be489367	kerrang	seek	0	restart
+376454	a46eda4bba5eac309b49f947be489367	kerrang	stop
+378457	ca0e482b9360c6b24106b5d207d5d94e	kerrang	seek	0	restart
+378466	ca0e482b9360c6b24106b5d207d5d94e	kerrang	pause
+378507	ca0e482b9360c6b24106b5d207d5d94e	kerrang	stop
+381338	8aad7b036b6b506de4aaf2d6833dff7e	kerrang	seek	0	restart
+381340	8aad7b036b6b506de4aaf2d6833dff7e	kerrang	pause
+381373	8aad7b036b6b506de4aaf2d6833dff7e	kerrang	seek	1	
+381670	8aad7b036b6b506de4aaf2d6833dff7e	kerrang	seek	358	fwd 60
+381676	8aad7b036b6b506de4aaf2d6833dff7e	kerrang	seek	2334	shortcut HelloGoodbye - Here (in your arms)
+381688	8aad7b036b6b506de4aaf2d6833dff7e	kerrang	pause
+381688.33	8aad7b036b6b506de4aaf2d6833dff7e	kerrang	seek	2346	
+381688.67	8aad7b036b6b506de4aaf2d6833dff7e	kerrang	seek	2387	bar
+381693	8aad7b036b6b506de4aaf2d6833dff7e	kerrang	seek	2129	shortcut Linkin Park - What I've Done
+381756	8aad7b036b6b506de4aaf2d6833dff7e	kerrang	seek	2202	fwd 10
+381774	8aad7b036b6b506de4aaf2d6833dff7e	kerrang	seek	1598	shortcut Fall Out Boy - Thks Fr Th Mmrs
+382028	8aad7b036b6b506de4aaf2d6833dff7e	kerrang	seek	1179	shortcut Good Charlotte - The River
+382056	8aad7b036b6b506de4aaf2d6833dff7e	kerrang	pause
+382056.33	8aad7b036b6b506de4aaf2d6833dff7e	kerrang	seek	1206	
+382056.67	8aad7b036b6b506de4aaf2d6833dff7e	kerrang	seek	1255	bar
+382278	8aad7b036b6b506de4aaf2d6833dff7e	kerrang	seek	694	shortcut Funeral For A Friend - Obilvion
+382365	8aad7b036b6b506de4aaf2d6833dff7e	kerrang	pause
+382395	8aad7b036b6b506de4aaf2d6833dff7e	kerrang	stop
+420715	e68dfca8c57079f9596e1040859db11b	kerrang	seek	0	restart
+420738	e68dfca8c57079f9596e1040859db11b	kerrang	seek	434	shortcut Red Hot Chilis - Hump De Bump
+420744	e68dfca8c57079f9596e1040859db11b	kerrang	seek	1372	shortcut Avril Lavigne - Girlfriend
+420785	e68dfca8c57079f9596e1040859db11b	kerrang	stop
+422377	7c37a2409ae5cc395296a60c23519e1a	kerrang	seek	0	restart
+422380	7c37a2409ae5cc395296a60c23519e1a	kerrang	seek	62	fwd 60
+422381	7c37a2409ae5cc395296a60c23519e1a	kerrang	seek	122	fwd 60
+422382	7c37a2409ae5cc395296a60c23519e1a	kerrang	seek	183	fwd 60
+422382.5	7c37a2409ae5cc395296a60c23519e1a	kerrang	seek	243	fwd 60
+422383	7c37a2409ae5cc395296a60c23519e1a	kerrang	seek	304	fwd 60
+422384	7c37a2409ae5cc395296a60c23519e1a	kerrang	seek	364	fwd 60
+422385	7c37a2409ae5cc395296a60c23519e1a	kerrang	seek	425	fwd 60
+422385.5	7c37a2409ae5cc395296a60c23519e1a	kerrang	seek	485	fwd 60
+422386	7c37a2409ae5cc395296a60c23519e1a	kerrang	seek	546	fwd 60
+422387	7c37a2409ae5cc395296a60c23519e1a	kerrang	seek	606	fwd 60
+422407	7c37a2409ae5cc395296a60c23519e1a	kerrang	seek	636	fwd 10
+422427	7c37a2409ae5cc395296a60c23519e1a	kerrang	seek	715	fwd 60
+422427.5	7c37a2409ae5cc395296a60c23519e1a	kerrang	seek	775	fwd 60
+422428	7c37a2409ae5cc395296a60c23519e1a	kerrang	seek	836	fwd 60
+422429	7c37a2409ae5cc395296a60c23519e1a	kerrang	seek	896	fwd 60
+422430	7c37a2409ae5cc395296a60c23519e1a	kerrang	seek	956	fwd 60
+422431	7c37a2409ae5cc395296a60c23519e1a	kerrang	seek	1017	fwd 60
+422431.5	7c37a2409ae5cc395296a60c23519e1a	kerrang	seek	1077	fwd 60
+422434	7c37a2409ae5cc395296a60c23519e1a	kerrang	pause
+422434.33	7c37a2409ae5cc395296a60c23519e1a	kerrang	seek	1080	
+422434.67	7c37a2409ae5cc395296a60c23519e1a	kerrang	seek	1150	bar
+422435	7c37a2409ae5cc395296a60c23519e1a	kerrang	pause
+422435.33	7c37a2409ae5cc395296a60c23519e1a	kerrang	seek	1151	
+422435.67	7c37a2409ae5cc395296a60c23519e1a	kerrang	seek	1275	bar
+422437	7c37a2409ae5cc395296a60c23519e1a	kerrang	pause
+422437.33	7c37a2409ae5cc395296a60c23519e1a	kerrang	seek	1277	
+422437.67	7c37a2409ae5cc395296a60c23519e1a	kerrang	seek	1376	bar
+422438	7c37a2409ae5cc395296a60c23519e1a	kerrang	pause
+422438.33	7c37a2409ae5cc395296a60c23519e1a	kerrang	seek	1377	
+422438.67	7c37a2409ae5cc395296a60c23519e1a	kerrang	seek	1392	bar
+422523	7c37a2409ae5cc395296a60c23519e1a	kerrang	pause
+422523.33	7c37a2409ae5cc395296a60c23519e1a	kerrang	seek	1476	
+422523.67	7c37a2409ae5cc395296a60c23519e1a	kerrang	seek	1517	bar
+422524	7c37a2409ae5cc395296a60c23519e1a	kerrang	pause
+422524.33	7c37a2409ae5cc395296a60c23519e1a	kerrang	seek	1518	
+422524.67	7c37a2409ae5cc395296a60c23519e1a	kerrang	seek	1575	bar
+422525	7c37a2409ae5cc395296a60c23519e1a	kerrang	pause
+422526	7c37a2409ae5cc395296a60c23519e1a	kerrang	seek	1576	
+422526.33	7c37a2409ae5cc395296a60c23519e1a	kerrang	seek	1641	bar
+422526.67	7c37a2409ae5cc395296a60c23519e1a	kerrang	pause
+422527	7c37a2409ae5cc395296a60c23519e1a	kerrang	seek	1642	
+422527.33	7c37a2409ae5cc395296a60c23519e1a	kerrang	seek	1678	bar
+422527.67	7c37a2409ae5cc395296a60c23519e1a	kerrang	pause
+422528	7c37a2409ae5cc395296a60c23519e1a	kerrang	seek	1679	
+422528.5	7c37a2409ae5cc395296a60c23519e1a	kerrang	seek	1795	bar
+422550	7c37a2409ae5cc395296a60c23519e1a	kerrang	pause
+422550.33	7c37a2409ae5cc395296a60c23519e1a	kerrang	seek	1817	
+422550.67	7c37a2409ae5cc395296a60c23519e1a	kerrang	seek	1908	bar
+422552	7c37a2409ae5cc395296a60c23519e1a	kerrang	pause
+422552.33	7c37a2409ae5cc395296a60c23519e1a	kerrang	seek	1910	
+422552.67	7c37a2409ae5cc395296a60c23519e1a	kerrang	seek	1929	bar
+422553	7c37a2409ae5cc395296a60c23519e1a	kerrang	pause
+422553.33	7c37a2409ae5cc395296a60c23519e1a	kerrang	seek	1930	
+422553.67	7c37a2409ae5cc395296a60c23519e1a	kerrang	seek	1988	bar
+422555	7c37a2409ae5cc395296a60c23519e1a	kerrang	pause
+422555.33	7c37a2409ae5cc395296a60c23519e1a	kerrang	seek	1990	
+422555.67	7c37a2409ae5cc395296a60c23519e1a	kerrang	seek	2022	bar
+422556	7c37a2409ae5cc395296a60c23519e1a	kerrang	pause
+422556.33	7c37a2409ae5cc395296a60c23519e1a	kerrang	seek	2023	
+422556.67	7c37a2409ae5cc395296a60c23519e1a	kerrang	seek	2072	bar
+422557	7c37a2409ae5cc395296a60c23519e1a	kerrang	pause
+422557.33	7c37a2409ae5cc395296a60c23519e1a	kerrang	seek	2073	
+422557.67	7c37a2409ae5cc395296a60c23519e1a	kerrang	seek	2122	bar
+422561	7c37a2409ae5cc395296a60c23519e1a	kerrang	pause
+422561.33	7c37a2409ae5cc395296a60c23519e1a	kerrang	seek	2126	
+422561.67	7c37a2409ae5cc395296a60c23519e1a	kerrang	seek	2166	bar
+422564	7c37a2409ae5cc395296a60c23519e1a	kerrang	pause
+422564.33	7c37a2409ae5cc395296a60c23519e1a	kerrang	seek	2168	
+422564.67	7c37a2409ae5cc395296a60c23519e1a	kerrang	seek	2180	bar
+422573	7c37a2409ae5cc395296a60c23519e1a	kerrang	seek	2249	fwd 60
+422588	7c37a2409ae5cc395296a60c23519e1a	kerrang	seek	2334	shortcut HelloGoodbye - Here (in your arms)
+422628	7c37a2409ae5cc395296a60c23519e1a	kerrang	stop
+424904	576d7fb213268ff875616af8ee9992ea	kerrang	seek	0	restart
+424944	576d7fb213268ff875616af8ee9992ea	kerrang	stop
+427165	f0f5e5ff50d249f16d2d12735472aedb	kerrang	seek	0	restart
+427195	f0f5e5ff50d249f16d2d12735472aedb	kerrang	stop
+430412	15bec12226d7d90ff1b275a9b6861627	kerrang	seek	0	restart
+430421	15bec12226d7d90ff1b275a9b6861627	kerrang	seek	933	shortcut Fall Out Boy - This Ain't a Scene
+430739	15bec12226d7d90ff1b275a9b6861627	kerrang	seek	1598	shortcut Fall Out Boy - Thks Fr Th Mmrs
+430772	15bec12226d7d90ff1b275a9b6861627	kerrang	pause
+430772.33	15bec12226d7d90ff1b275a9b6861627	kerrang	seek	1621	
+430772.67	15bec12226d7d90ff1b275a9b6861627	kerrang	seek	1604	bar
+431055	15bec12226d7d90ff1b275a9b6861627	kerrang	stop
+463586	fd8e81409c78715a11908d9ee9803428	kerrang	seek	0	restart
+463600	fd8e81409c78715a11908d9ee9803428	kerrang	seek	1372	shortcut Avril Lavigne - Girlfriend
+463666	fd8e81409c78715a11908d9ee9803428	kerrang	stop
+495674	da95fb31eacc1f0e675d74f9fee1ac75	kerrang	seek	0	restart
+495919	da95fb31eacc1f0e675d74f9fee1ac75	kerrang	stop
+527180	7d5d762e9696d3b4c99adf63e25bb48d	kerrang	seek	0	restart
+527220	7d5d762e9696d3b4c99adf63e25bb48d	kerrang	stop
+542850	c94738253e4af8be05dc160fa1868910	kerrang	seek	0	restart
+542869	c94738253e4af8be05dc160fa1868910	kerrang	seek	933	shortcut Fall Out Boy - This Ain't a Scene
+542901	c94738253e4af8be05dc160fa1868910	kerrang	stop
+545932	07a5747b1fb3ed980b7ff0ebd3e27cfe	kerrang	seek	0	restart
+545938	07a5747b1fb3ed980b7ff0ebd3e27cfe	kerrang	seek	0	shortcut My Chemical Romance - The Black Parade
+545939	07a5747b1fb3ed980b7ff0ebd3e27cfe	kerrang	seek	255	shortcut Elliot Minor - Parallel Worlds
+545940	07a5747b1fb3ed980b7ff0ebd3e27cfe	kerrang	seek	434	shortcut Red Hot Chilis - Hump De Bump
+545941	07a5747b1fb3ed980b7ff0ebd3e27cfe	kerrang	seek	694	shortcut Funeral For A Friend - Obilvion
+545943	07a5747b1fb3ed980b7ff0ebd3e27cfe	kerrang	seek	933	shortcut Fall Out Boy - This Ain't a Scene
+546041	07a5747b1fb3ed980b7ff0ebd3e27cfe	kerrang	pause
+546041.33	07a5747b1fb3ed980b7ff0ebd3e27cfe	kerrang	seek	1027	
+546041.67	07a5747b1fb3ed980b7ff0ebd3e27cfe	kerrang	seek	1159	bar
+546045	07a5747b1fb3ed980b7ff0ebd3e27cfe	kerrang	pause
+546045.33	07a5747b1fb3ed980b7ff0ebd3e27cfe	kerrang	seek	1119	bar
+546045.67	07a5747b1fb3ed980b7ff0ebd3e27cfe	kerrang	seek	1162	
+546047	07a5747b1fb3ed980b7ff0ebd3e27cfe	kerrang	pause
+546048	07a5747b1fb3ed980b7ff0ebd3e27cfe	kerrang	seek	1121	
+546048.5	07a5747b1fb3ed980b7ff0ebd3e27cfe	kerrang	seek	1086	bar
+546078	07a5747b1fb3ed980b7ff0ebd3e27cfe	kerrang	stop
+547679	62a192e23705138069e4d666c4d2165d	kerrang	seek	0	restart
+547682	62a192e23705138069e4d666c4d2165d	kerrang	seek	694	shortcut Funeral For A Friend - Obilvion
+547719	62a192e23705138069e4d666c4d2165d	kerrang	stop
+633326	1248dd9d07079811496b296c53bac7b4	kerrang	seek	0	restart
+633376	1248dd9d07079811496b296c53bac7b4	kerrang	stop
+640314	bf2ba572eb3d11541b0bc678584fa70d	kerrang	seek	0	restart
+640324	bf2ba572eb3d11541b0bc678584fa70d	kerrang	seek	2129	shortcut Linkin Park - What I've Done
+640354	bf2ba572eb3d11541b0bc678584fa70d	kerrang	stop
+676702	28f9897afe2ffe1789e4bd2d3d64ab0e	kerrang	seek	0	restart
+676729	28f9897afe2ffe1789e4bd2d3d64ab0e	kerrang	seek	2334	shortcut HelloGoodbye - Here (in your arms)
+676815	28f9897afe2ffe1789e4bd2d3d64ab0e	kerrang	seek	1598	shortcut Fall Out Boy - Thks Fr Th Mmrs
+676826	28f9897afe2ffe1789e4bd2d3d64ab0e	kerrang	seek	1669	fwd 60
+676828	28f9897afe2ffe1789e4bd2d3d64ab0e	kerrang	seek	1730	fwd 60
+676832	28f9897afe2ffe1789e4bd2d3d64ab0e	kerrang	seek	434	shortcut Red Hot Chilis - Hump De Bump
+676835	28f9897afe2ffe1789e4bd2d3d64ab0e	kerrang	seek	447	fwd 10
+676837	28f9897afe2ffe1789e4bd2d3d64ab0e	kerrang	seek	458	fwd 10
+676838	28f9897afe2ffe1789e4bd2d3d64ab0e	kerrang	seek	469	fwd 10
+676840	28f9897afe2ffe1789e4bd2d3d64ab0e	kerrang	seek	531	fwd 60
+676883	28f9897afe2ffe1789e4bd2d3d64ab0e	kerrang	stop
+701603	653956dfabce083d2db17463eaa1831c	kerrang	seek	0	restart
+701609	653956dfabce083d2db17463eaa1831c	kerrang	seek	434	shortcut Red Hot Chilis - Hump De Bump
+701788	653956dfabce083d2db17463eaa1831c	kerrang	seek	2129	shortcut Linkin Park - What I've Done
+701804	653956dfabce083d2db17463eaa1831c	kerrang	pause
+701854	653956dfabce083d2db17463eaa1831c	kerrang	seek	2141	
+702079	653956dfabce083d2db17463eaa1831c	kerrang	seek	434	shortcut Red Hot Chilis - Hump De Bump
+702318	653956dfabce083d2db17463eaa1831c	kerrang	stop
+704196	5d4da502cc80843464abaf615d43e694	kerrang	seek	0	restart
+704200	5d4da502cc80843464abaf615d43e694	kerrang	seek	13	fwd 10
+704201	5d4da502cc80843464abaf615d43e694	kerrang	seek	24	fwd 10
+704202	5d4da502cc80843464abaf615d43e694	kerrang	seek	34	fwd 10
+704202.33	5d4da502cc80843464abaf615d43e694	kerrang	seek	95	fwd 60
+704202.67	5d4da502cc80843464abaf615d43e694	kerrang	seek	155	fwd 60
+704203	5d4da502cc80843464abaf615d43e694	kerrang	seek	215	fwd 60
+704204	5d4da502cc80843464abaf615d43e694	kerrang	seek	275	fwd 60
+704205	5d4da502cc80843464abaf615d43e694	kerrang	seek	336	fwd 60
+704207	5d4da502cc80843464abaf615d43e694	kerrang	seek	397	fwd 60
+704208	5d4da502cc80843464abaf615d43e694	kerrang	seek	458	fwd 60
+704212	5d4da502cc80843464abaf615d43e694	kerrang	seek	451	back 10
+704213	5d4da502cc80843464abaf615d43e694	kerrang	seek	441	back 10
+704214	5d4da502cc80843464abaf615d43e694	kerrang	seek	432	back 10
+704216	5d4da502cc80843464abaf615d43e694	kerrang	seek	444	fwd 10
+704222	5d4da502cc80843464abaf615d43e694	kerrang	seek	439	back 10
+704223	5d4da502cc80843464abaf615d43e694	kerrang	seek	430	back 10
+704446	5d4da502cc80843464abaf615d43e694	kerrang	seek	662	fwd 10
+704447	5d4da502cc80843464abaf615d43e694	kerrang	seek	673	fwd 10
+704448	5d4da502cc80843464abaf615d43e694	kerrang	seek	683	fwd 10
+704449	5d4da502cc80843464abaf615d43e694	kerrang	seek	675	back 10
+704471	5d4da502cc80843464abaf615d43e694	kerrang	seek	706	fwd 10
+704473	5d4da502cc80843464abaf615d43e694	kerrang	seek	717	fwd 10
+704475	5d4da502cc80843464abaf615d43e694	kerrang	seek	729	fwd 10
+704477	5d4da502cc80843464abaf615d43e694	kerrang	seek	741	fwd 10
+704478	5d4da502cc80843464abaf615d43e694	kerrang	seek	752	fwd 10
+704479	5d4da502cc80843464abaf615d43e694	kerrang	seek	812	fwd 60
+704480	5d4da502cc80843464abaf615d43e694	kerrang	seek	873	fwd 60
+704481	5d4da502cc80843464abaf615d43e694	kerrang	seek	934	fwd 60
+704493	5d4da502cc80843464abaf615d43e694	kerrang	seek	954	fwd 10
+704494	5d4da502cc80843464abaf615d43e694	kerrang	seek	965	fwd 10
+704496	5d4da502cc80843464abaf615d43e694	kerrang	seek	1027	fwd 60
+704497	5d4da502cc80843464abaf615d43e694	kerrang	seek	1088	fwd 60
+704498	5d4da502cc80843464abaf615d43e694	kerrang	seek	1149	fwd 60
+704507	5d4da502cc80843464abaf615d43e694	kerrang	seek	1168	fwd 10
+704509	5d4da502cc80843464abaf615d43e694	kerrang	seek	1179	fwd 10
+704513	5d4da502cc80843464abaf615d43e694	kerrang	seek	1193	fwd 10
+704514	5d4da502cc80843464abaf615d43e694	kerrang	seek	1184	back 10
+704516	5d4da502cc80843464abaf615d43e694	kerrang	seek	1175	back 10
+704517	5d4da502cc80843464abaf615d43e694	kerrang	seek	1186	fwd 10
+704519	5d4da502cc80843464abaf615d43e694	kerrang	seek	1197	fwd 10
+704519.5	5d4da502cc80843464abaf615d43e694	kerrang	seek	1208	fwd 10
+704520	5d4da502cc80843464abaf615d43e694	kerrang	seek	1218	fwd 10
+704521	5d4da502cc80843464abaf615d43e694	kerrang	seek	1229	fwd 10
+704522	5d4da502cc80843464abaf615d43e694	kerrang	seek	1240	fwd 10
+704522.5	5d4da502cc80843464abaf615d43e694	kerrang	seek	1250	fwd 10
+704523	5d4da502cc80843464abaf615d43e694	kerrang	seek	1311	fwd 60
+704525	5d4da502cc80843464abaf615d43e694	kerrang	seek	1372	fwd 60
+704548	5d4da502cc80843464abaf615d43e694	kerrang	seek	1405	fwd 10
+704549	5d4da502cc80843464abaf615d43e694	kerrang	seek	1416	fwd 10
+704551	5d4da502cc80843464abaf615d43e694	kerrang	seek	1477	fwd 60
+704553	5d4da502cc80843464abaf615d43e694	kerrang	seek	1539	fwd 60
+704554	5d4da502cc80843464abaf615d43e694	kerrang	seek	1600	fwd 60
+704566	5d4da502cc80843464abaf615d43e694	kerrang	seek	1621	fwd 10
+704567	5d4da502cc80843464abaf615d43e694	kerrang	seek	1632	fwd 10
+704568	5d4da502cc80843464abaf615d43e694	kerrang	seek	1643	fwd 10
+704569	5d4da502cc80843464abaf615d43e694	kerrang	seek	1654	fwd 10
+704570	5d4da502cc80843464abaf615d43e694	kerrang	seek	1664	fwd 10
+704571	5d4da502cc80843464abaf615d43e694	kerrang	seek	1675	fwd 10
+704572	5d4da502cc80843464abaf615d43e694	kerrang	seek	1686	fwd 10
+704573	5d4da502cc80843464abaf615d43e694	kerrang	seek	1747	fwd 60
+704574	5d4da502cc80843464abaf615d43e694	kerrang	seek	1807	fwd 60
+704575	5d4da502cc80843464abaf615d43e694	kerrang	seek	1868	fwd 60
+704582	5d4da502cc80843464abaf615d43e694	kerrang	seek	1884	fwd 10
+704586	5d4da502cc80843464abaf615d43e694	kerrang	seek	1948	fwd 60
+704586.5	5d4da502cc80843464abaf615d43e694	kerrang	seek	2008	fwd 60
+704587	5d4da502cc80843464abaf615d43e694	kerrang	seek	2068	fwd 60
+704588	5d4da502cc80843464abaf615d43e694	kerrang	seek	2129	fwd 60
+704594	5d4da502cc80843464abaf615d43e694	kerrang	seek	2145	fwd 10
+704606	5d4da502cc80843464abaf615d43e694	kerrang	seek	2217	fwd 60
+704609	5d4da502cc80843464abaf615d43e694	kerrang	seek	2280	fwd 60
+704611	5d4da502cc80843464abaf615d43e694	kerrang	seek	2341	fwd 60
+704669	5d4da502cc80843464abaf615d43e694	kerrang	seek	2458	fwd 60
+704670	5d4da502cc80843464abaf615d43e694	kerrang	seek	2519	fwd 60
+704674	5d4da502cc80843464abaf615d43e694	kerrang	seek	62	fwd 60
+704675	5d4da502cc80843464abaf615d43e694	kerrang	seek	122	fwd 60
+704676	5d4da502cc80843464abaf615d43e694	kerrang	seek	182	fwd 60
+704676.5	5d4da502cc80843464abaf615d43e694	kerrang	seek	242	fwd 60
+704677	5d4da502cc80843464abaf615d43e694	kerrang	seek	303	fwd 60
+704678	5d4da502cc80843464abaf615d43e694	kerrang	seek	364	fwd 60
+704679	5d4da502cc80843464abaf615d43e694	kerrang	seek	424	fwd 60
+704680	5d4da502cc80843464abaf615d43e694	kerrang	seek	486	fwd 60
+704710	5d4da502cc80843464abaf615d43e694	kerrang	stop
+712946	ec4d44cad9d05ed43aa1ba0203a02cea	kerrang	seek	0	restart
+712957	ec4d44cad9d05ed43aa1ba0203a02cea	kerrang	seek	1372	shortcut Avril Lavigne - Girlfriend
+713217	ec4d44cad9d05ed43aa1ba0203a02cea	kerrang	stop
+725467	6731e8aecbfb1d7e4807166850653e04	kerrang	seek	0	restart
+725481	6731e8aecbfb1d7e4807166850653e04	kerrang	seek	434	shortcut Red Hot Chilis - Hump De Bump
+725484	6731e8aecbfb1d7e4807166850653e04	kerrang	seek	447	fwd 10
+725485	6731e8aecbfb1d7e4807166850653e04	kerrang	seek	457	fwd 10
+725486	6731e8aecbfb1d7e4807166850653e04	kerrang	seek	468	fwd 10
+725487	6731e8aecbfb1d7e4807166850653e04	kerrang	seek	528	fwd 60
+725491	6731e8aecbfb1d7e4807166850653e04	kerrang	seek	694	shortcut Funeral For A Friend - Obilvion
+725492	6731e8aecbfb1d7e4807166850653e04	kerrang	seek	933	shortcut Fall Out Boy - This Ain't a Scene
+725492.5	6731e8aecbfb1d7e4807166850653e04	kerrang	seek	933	shortcut Fall Out Boy - This Ain't a Scene
+725495	6731e8aecbfb1d7e4807166850653e04	kerrang	seek	996	fwd 60
+725527	6731e8aecbfb1d7e4807166850653e04	kerrang	stop
+728933	c79914c72b628d6d65240e584da0b493	kerrang	seek	0	restart
+729006	c79914c72b628d6d65240e584da0b493	kerrang	pause
+729007	c79914c72b628d6d65240e584da0b493	kerrang	seek	72	
+729007.5	c79914c72b628d6d65240e584da0b493	kerrang	seek	283	bar
+729053	c79914c72b628d6d65240e584da0b493	kerrang	stop
+772730	3c56d0788aacb2a1df1d5ed0f31be407	kerrang	seek	0	restart
+772732	3c56d0788aacb2a1df1d5ed0f31be407	kerrang	pause
+772780	3c56d0788aacb2a1df1d5ed0f31be407	kerrang	seek	2	
+772880	3c56d0788aacb2a1df1d5ed0f31be407	kerrang	pause
+772910	3c56d0788aacb2a1df1d5ed0f31be407	kerrang	stop
+774488	8301bcf4b26b0d0c2973cd23a0774852	kerrang	seek	0	restart
+774499	8301bcf4b26b0d0c2973cd23a0774852	kerrang	seek	0	restart
+774523	8301bcf4b26b0d0c2973cd23a0774852	kerrang	pause
+774569	8301bcf4b26b0d0c2973cd23a0774852	kerrang	stop
+777581	3c56d0788aacb2a1df1d5ed0f31be407	kerrang	seek	0	restart
+777725	3c56d0788aacb2a1df1d5ed0f31be407	kerrang	seek	146	fwd 10
+777804	3c56d0788aacb2a1df1d5ed0f31be407	kerrang	seek	280	fwd 60
+777874	3c56d0788aacb2a1df1d5ed0f31be407	kerrang	stop
+852701	e283272ffee197bd0f05b2b227a5b07f	kerrang	seek	0	restart
+852715	e283272ffee197bd0f05b2b227a5b07f	kerrang	seek	1372	shortcut Avril Lavigne - Girlfriend
+852956	e283272ffee197bd0f05b2b227a5b07f	kerrang	seek	2334	shortcut HelloGoodbye - Here (in your arms)
+852998	e283272ffee197bd0f05b2b227a5b07f	kerrang	seek	2129	shortcut Linkin Park - What I've Done
+853006	e283272ffee197bd0f05b2b227a5b07f	kerrang	seek	1179	shortcut Good Charlotte - The River
+853007	e283272ffee197bd0f05b2b227a5b07f	kerrang	seek	1179	shortcut Good Charlotte - The River
+853013	e283272ffee197bd0f05b2b227a5b07f	kerrang	pause
+853014	e283272ffee197bd0f05b2b227a5b07f	kerrang	seek	1184	
+853014.5	e283272ffee197bd0f05b2b227a5b07f	kerrang	seek	1245	bar
+853018	e283272ffee197bd0f05b2b227a5b07f	kerrang	seek	933	shortcut Fall Out Boy - This Ain't a Scene
+853023	e283272ffee197bd0f05b2b227a5b07f	kerrang	pause
+853024	e283272ffee197bd0f05b2b227a5b07f	kerrang	seek	939	
+853024.5	e283272ffee197bd0f05b2b227a5b07f	kerrang	seek	1012	bar
+853027	e283272ffee197bd0f05b2b227a5b07f	kerrang	seek	694	shortcut Funeral For A Friend - Obilvion
+853035	e283272ffee197bd0f05b2b227a5b07f	kerrang	pause
+853036	e283272ffee197bd0f05b2b227a5b07f	kerrang	seek	701	
+853036.5	e283272ffee197bd0f05b2b227a5b07f	kerrang	seek	771	bar
+853051	e283272ffee197bd0f05b2b227a5b07f	kerrang	seek	434	shortcut Red Hot Chilis - Hump De Bump
+853056	e283272ffee197bd0f05b2b227a5b07f	kerrang	seek	255	shortcut Elliot Minor - Parallel Worlds
+853074	e283272ffee197bd0f05b2b227a5b07f	kerrang	pause
+853074.33	e283272ffee197bd0f05b2b227a5b07f	kerrang	seek	273	
+853074.67	e283272ffee197bd0f05b2b227a5b07f	kerrang	seek	351	bar
+853079	e283272ffee197bd0f05b2b227a5b07f	kerrang	seek	1598	shortcut Fall Out Boy - Thks Fr Th Mmrs
+853089	e283272ffee197bd0f05b2b227a5b07f	kerrang	seek	255	shortcut Elliot Minor - Parallel Worlds
+853093	e283272ffee197bd0f05b2b227a5b07f	kerrang	pause
+853094	e283272ffee197bd0f05b2b227a5b07f	kerrang	seek	259	
+853094.5	e283272ffee197bd0f05b2b227a5b07f	kerrang	seek	320	bar
+853105	e283272ffee197bd0f05b2b227a5b07f	kerrang	seek	1372	shortcut Avril Lavigne - Girlfriend
+853228	e283272ffee197bd0f05b2b227a5b07f	kerrang	pause
+853258	e283272ffee197bd0f05b2b227a5b07f	kerrang	stop
+912547	ab22482806c5dd173c296e919515c73c	kerrang	seek	0	restart
+912555	ab22482806c5dd173c296e919515c73c	kerrang	seek	0	shortcut My Chemical Romance - The Black Parade
+912557	ab22482806c5dd173c296e919515c73c	kerrang	seek	255	shortcut Elliot Minor - Parallel Worlds
+912564	ab22482806c5dd173c296e919515c73c	kerrang	seek	933	shortcut Fall Out Boy - This Ain't a Scene
+912594	ab22482806c5dd173c296e919515c73c	kerrang	stop
+935610	bf2683e777857a42cac8c983767f9677	kerrang	seek	0	restart
+935741	bf2683e777857a42cac8c983767f9677	kerrang	stop
+949689	0ffef83abffc69cf0f57f5f30308bfc6	kerrang	seek	0	restart
+949757	0ffef83abffc69cf0f57f5f30308bfc6	kerrang	seek	255	shortcut Elliot Minor - Parallel Worlds
+949779	0ffef83abffc69cf0f57f5f30308bfc6	kerrang	seek	434	shortcut Red Hot Chilis - Hump De Bump
+950124	0ffef83abffc69cf0f57f5f30308bfc6	kerrang	seek	1179	shortcut Good Charlotte - The River
+950544	0ffef83abffc69cf0f57f5f30308bfc6	kerrang	pause
+950924	0ffef83abffc69cf0f57f5f30308bfc6	kerrang	seek	1599	
+951010	0ffef83abffc69cf0f57f5f30308bfc6	kerrang	pause
+953222	0ffef83abffc69cf0f57f5f30308bfc6	kerrang	seek	1684	
+953452	0ffef83abffc69cf0f57f5f30308bfc6	kerrang	pause
+953524	0ffef83abffc69cf0f57f5f30308bfc6	kerrang	seek	1914	
+953605	0ffef83abffc69cf0f57f5f30308bfc6	kerrang	pause
+956009	0ffef83abffc69cf0f57f5f30308bfc6	kerrang	seek	1995	
+956338	9250db72b69d78771e38e83c0b8cc6a9	kerrang	seek	0	restart
+956376	9250db72b69d78771e38e83c0b8cc6a9	kerrang	pause
+956376.33	9250db72b69d78771e38e83c0b8cc6a9	kerrang	seek	77	bar
+956376.67	9250db72b69d78771e38e83c0b8cc6a9	kerrang	seek	36	
+956385	9250db72b69d78771e38e83c0b8cc6a9	kerrang	pause
+956385.33	9250db72b69d78771e38e83c0b8cc6a9	kerrang	seek	86	
+956385.67	9250db72b69d78771e38e83c0b8cc6a9	kerrang	seek	101	bar
+956387	9250db72b69d78771e38e83c0b8cc6a9	kerrang	pause
+956387.33	9250db72b69d78771e38e83c0b8cc6a9	kerrang	seek	103	
+956387.67	9250db72b69d78771e38e83c0b8cc6a9	kerrang	seek	139	bar
+956390	9250db72b69d78771e38e83c0b8cc6a9	kerrang	pause
+956390.33	9250db72b69d78771e38e83c0b8cc6a9	kerrang	seek	142	
+956390.67	9250db72b69d78771e38e83c0b8cc6a9	kerrang	seek	174	bar
+956394	9250db72b69d78771e38e83c0b8cc6a9	kerrang	pause
+956395	9250db72b69d78771e38e83c0b8cc6a9	kerrang	seek	178	
+956395.5	9250db72b69d78771e38e83c0b8cc6a9	kerrang	seek	210	bar
+956403	9250db72b69d78771e38e83c0b8cc6a9	kerrang	pause
+956404	9250db72b69d78771e38e83c0b8cc6a9	kerrang	seek	219	
+956404.5	9250db72b69d78771e38e83c0b8cc6a9	kerrang	seek	243	bar
+956409	9250db72b69d78771e38e83c0b8cc6a9	kerrang	pause
+956409.33	9250db72b69d78771e38e83c0b8cc6a9	kerrang	seek	248	
+956409.67	9250db72b69d78771e38e83c0b8cc6a9	kerrang	seek	264	bar
+956420	9250db72b69d78771e38e83c0b8cc6a9	kerrang	pause
+956420.33	9250db72b69d78771e38e83c0b8cc6a9	kerrang	seek	275	
+956420.67	9250db72b69d78771e38e83c0b8cc6a9	kerrang	seek	362	bar
+956422	9250db72b69d78771e38e83c0b8cc6a9	kerrang	pause
+956423	9250db72b69d78771e38e83c0b8cc6a9	kerrang	seek	364	
+956423.5	9250db72b69d78771e38e83c0b8cc6a9	kerrang	seek	513	bar
+956460	9250db72b69d78771e38e83c0b8cc6a9	kerrang	pause
+956461	9250db72b69d78771e38e83c0b8cc6a9	kerrang	seek	551	
+956461.5	9250db72b69d78771e38e83c0b8cc6a9	kerrang	seek	620	bar
+956474	9250db72b69d78771e38e83c0b8cc6a9	kerrang	pause
+956475	9250db72b69d78771e38e83c0b8cc6a9	kerrang	seek	633	
+956475.5	9250db72b69d78771e38e83c0b8cc6a9	kerrang	seek	678	bar
+956495	9250db72b69d78771e38e83c0b8cc6a9	kerrang	pause
+956495.33	9250db72b69d78771e38e83c0b8cc6a9	kerrang	seek	698	
+956495.67	9250db72b69d78771e38e83c0b8cc6a9	kerrang	seek	709	bar
+956504	9250db72b69d78771e38e83c0b8cc6a9	kerrang	pause
+956504.33	9250db72b69d78771e38e83c0b8cc6a9	kerrang	seek	717	
+956504.67	9250db72b69d78771e38e83c0b8cc6a9	kerrang	seek	733	bar
+956505	9250db72b69d78771e38e83c0b8cc6a9	kerrang	pause
+956506	9250db72b69d78771e38e83c0b8cc6a9	kerrang	seek	735	
+956506.33	9250db72b69d78771e38e83c0b8cc6a9	kerrang	seek	792	bar
+956506.67	9250db72b69d78771e38e83c0b8cc6a9	kerrang	pause
+956507	9250db72b69d78771e38e83c0b8cc6a9	kerrang	seek	793	
+956507.5	9250db72b69d78771e38e83c0b8cc6a9	kerrang	seek	901	bar
+956508	9250db72b69d78771e38e83c0b8cc6a9	kerrang	pause
+956509	9250db72b69d78771e38e83c0b8cc6a9	kerrang	seek	902	
+956509.33	9250db72b69d78771e38e83c0b8cc6a9	kerrang	seek	901	bar
+956509.67	9250db72b69d78771e38e83c0b8cc6a9	kerrang	pause
+956510	9250db72b69d78771e38e83c0b8cc6a9	kerrang	seek	902	
+956510.5	9250db72b69d78771e38e83c0b8cc6a9	kerrang	seek	930	bar
+956511	9250db72b69d78771e38e83c0b8cc6a9	kerrang	pause
+956511.33	9250db72b69d78771e38e83c0b8cc6a9	kerrang	seek	932	
+956511.67	9250db72b69d78771e38e83c0b8cc6a9	kerrang	seek	947	bar
+956537	9250db72b69d78771e38e83c0b8cc6a9	kerrang	pause
+956538	9250db72b69d78771e38e83c0b8cc6a9	kerrang	seek	967	
+956538.5	9250db72b69d78771e38e83c0b8cc6a9	kerrang	seek	1150	bar
+956577	9250db72b69d78771e38e83c0b8cc6a9	kerrang	pause
+956577.33	9250db72b69d78771e38e83c0b8cc6a9	kerrang	seek	1189	
+956577.67	9250db72b69d78771e38e83c0b8cc6a9	kerrang	seek	1213	bar
+956590	9250db72b69d78771e38e83c0b8cc6a9	kerrang	pause
+956590.33	9250db72b69d78771e38e83c0b8cc6a9	kerrang	seek	1226	
+956590.67	9250db72b69d78771e38e83c0b8cc6a9	kerrang	seek	1279	bar
+956592	9250db72b69d78771e38e83c0b8cc6a9	kerrang	pause
+956592.33	9250db72b69d78771e38e83c0b8cc6a9	kerrang	seek	1281	
+956592.67	9250db72b69d78771e38e83c0b8cc6a9	kerrang	seek	1371	bar
+956630	9250db72b69d78771e38e83c0b8cc6a9	kerrang	pause
+956631	9250db72b69d78771e38e83c0b8cc6a9	kerrang	seek	1409	
+956631.5	9250db72b69d78771e38e83c0b8cc6a9	kerrang	seek	1466	bar
+956633	9250db72b69d78771e38e83c0b8cc6a9	kerrang	pause
+956633.33	9250db72b69d78771e38e83c0b8cc6a9	kerrang	seek	1468	
+956633.67	9250db72b69d78771e38e83c0b8cc6a9	kerrang	seek	1529	bar
+956634	9250db72b69d78771e38e83c0b8cc6a9	kerrang	pause
+956635	9250db72b69d78771e38e83c0b8cc6a9	kerrang	seek	1530	
+956635.5	9250db72b69d78771e38e83c0b8cc6a9	kerrang	seek	1558	bar
+956636	9250db72b69d78771e38e83c0b8cc6a9	kerrang	pause
+956636.33	9250db72b69d78771e38e83c0b8cc6a9	kerrang	seek	1559	
+956636.67	9250db72b69d78771e38e83c0b8cc6a9	kerrang	seek	1638	bar
+956651	9250db72b69d78771e38e83c0b8cc6a9	kerrang	pause
+956651.33	9250db72b69d78771e38e83c0b8cc6a9	kerrang	seek	1652	
+956651.67	9250db72b69d78771e38e83c0b8cc6a9	kerrang	seek	1689	bar
+956655	9250db72b69d78771e38e83c0b8cc6a9	kerrang	pause
+956655.33	9250db72b69d78771e38e83c0b8cc6a9	kerrang	seek	1694	
+956655.67	9250db72b69d78771e38e83c0b8cc6a9	kerrang	seek	1717	bar
+956656	9250db72b69d78771e38e83c0b8cc6a9	kerrang	pause
+956657	9250db72b69d78771e38e83c0b8cc6a9	kerrang	seek	1718	
+956657.5	9250db72b69d78771e38e83c0b8cc6a9	kerrang	seek	1751	bar
+956660	9250db72b69d78771e38e83c0b8cc6a9	kerrang	pause
+956660.33	9250db72b69d78771e38e83c0b8cc6a9	kerrang	seek	1755	
+956660.67	9250db72b69d78771e38e83c0b8cc6a9	kerrang	seek	1795	bar
+956681	9250db72b69d78771e38e83c0b8cc6a9	kerrang	pause
+956681.33	9250db72b69d78771e38e83c0b8cc6a9	kerrang	seek	1816	
+956681.67	9250db72b69d78771e38e83c0b8cc6a9	kerrang	seek	1857	bar
+956688	9250db72b69d78771e38e83c0b8cc6a9	kerrang	pause
+956688.33	9250db72b69d78771e38e83c0b8cc6a9	kerrang	seek	1863	
+956688.67	9250db72b69d78771e38e83c0b8cc6a9	kerrang	seek	1879	bar
+956689	9250db72b69d78771e38e83c0b8cc6a9	kerrang	pause
+956689.33	9250db72b69d78771e38e83c0b8cc6a9	kerrang	seek	1880	
+956689.67	9250db72b69d78771e38e83c0b8cc6a9	kerrang	seek	1925	bar
+956690	9250db72b69d78771e38e83c0b8cc6a9	kerrang	pause
+956690.33	9250db72b69d78771e38e83c0b8cc6a9	kerrang	seek	1926	
+956690.67	9250db72b69d78771e38e83c0b8cc6a9	kerrang	seek	1996	bar
+956691	9250db72b69d78771e38e83c0b8cc6a9	kerrang	pause
+956691.33	9250db72b69d78771e38e83c0b8cc6a9	kerrang	seek	1997	
+956691.67	9250db72b69d78771e38e83c0b8cc6a9	kerrang	seek	2050	bar
+956694	9250db72b69d78771e38e83c0b8cc6a9	kerrang	pause
+956695	9250db72b69d78771e38e83c0b8cc6a9	kerrang	seek	2053	
+956695.5	9250db72b69d78771e38e83c0b8cc6a9	kerrang	seek	2060	bar
+956696	9250db72b69d78771e38e83c0b8cc6a9	kerrang	pause
+956696.33	9250db72b69d78771e38e83c0b8cc6a9	kerrang	seek	2061	
+956696.67	9250db72b69d78771e38e83c0b8cc6a9	kerrang	seek	2069	bar
+956697	9250db72b69d78771e38e83c0b8cc6a9	kerrang	pause
+956697.33	9250db72b69d78771e38e83c0b8cc6a9	kerrang	seek	2070	
+956697.67	9250db72b69d78771e38e83c0b8cc6a9	kerrang	seek	2094	bar
+956698	9250db72b69d78771e38e83c0b8cc6a9	kerrang	pause
+956698.33	9250db72b69d78771e38e83c0b8cc6a9	kerrang	seek	2095	
+956698.67	9250db72b69d78771e38e83c0b8cc6a9	kerrang	seek	2111	bar
+956699	9250db72b69d78771e38e83c0b8cc6a9	kerrang	pause
+956700	9250db72b69d78771e38e83c0b8cc6a9	kerrang	seek	2112	
+956700.5	9250db72b69d78771e38e83c0b8cc6a9	kerrang	seek	2136	bar
+956773	9250db72b69d78771e38e83c0b8cc6a9	kerrang	pause
+956773.33	9250db72b69d78771e38e83c0b8cc6a9	kerrang	seek	2209	
+956773.67	9250db72b69d78771e38e83c0b8cc6a9	kerrang	seek	2237	bar
+956774	9250db72b69d78771e38e83c0b8cc6a9	kerrang	pause
+956774.33	9250db72b69d78771e38e83c0b8cc6a9	kerrang	seek	2238	
+956774.67	9250db72b69d78771e38e83c0b8cc6a9	kerrang	seek	2299	bar
+956775	9250db72b69d78771e38e83c0b8cc6a9	kerrang	pause
+956775.33	9250db72b69d78771e38e83c0b8cc6a9	kerrang	seek	2300	
+956775.67	9250db72b69d78771e38e83c0b8cc6a9	kerrang	seek	2345	bar
+956790	9250db72b69d78771e38e83c0b8cc6a9	kerrang	pause
+956790.33	9250db72b69d78771e38e83c0b8cc6a9	kerrang	seek	2360	
+956790.67	9250db72b69d78771e38e83c0b8cc6a9	kerrang	seek	2371	bar
+956791	9250db72b69d78771e38e83c0b8cc6a9	kerrang	pause
+956791.33	9250db72b69d78771e38e83c0b8cc6a9	kerrang	seek	2372	
+956791.67	9250db72b69d78771e38e83c0b8cc6a9	kerrang	seek	2405	bar
+956794	9250db72b69d78771e38e83c0b8cc6a9	kerrang	pause
+956794.33	9250db72b69d78771e38e83c0b8cc6a9	kerrang	seek	2408	
+956794.67	9250db72b69d78771e38e83c0b8cc6a9	kerrang	seek	2424	bar
+956800	9250db72b69d78771e38e83c0b8cc6a9	kerrang	pause
+956800.33	9250db72b69d78771e38e83c0b8cc6a9	kerrang	seek	2430	
+956800.67	9250db72b69d78771e38e83c0b8cc6a9	kerrang	seek	2458	bar
+956819	9250db72b69d78771e38e83c0b8cc6a9	kerrang	pause
+956819.33	9250db72b69d78771e38e83c0b8cc6a9	kerrang	seek	2483	bar
+956819.67	9250db72b69d78771e38e83c0b8cc6a9	kerrang	seek	2476	
+956820	9250db72b69d78771e38e83c0b8cc6a9	kerrang	pause
+956820.33	9250db72b69d78771e38e83c0b8cc6a9	kerrang	seek	2484	
+956820.67	9250db72b69d78771e38e83c0b8cc6a9	kerrang	seek	2483	bar
+956821	9250db72b69d78771e38e83c0b8cc6a9	kerrang	pause
+956821.33	9250db72b69d78771e38e83c0b8cc6a9	kerrang	seek	2484	
+956821.67	9250db72b69d78771e38e83c0b8cc6a9	kerrang	seek	2491	bar
+956822	9250db72b69d78771e38e83c0b8cc6a9	kerrang	pause
+956822.33	9250db72b69d78771e38e83c0b8cc6a9	kerrang	seek	2492	
+956822.67	9250db72b69d78771e38e83c0b8cc6a9	kerrang	seek	2499	bar
+956841	9250db72b69d78771e38e83c0b8cc6a9	kerrang	pause
+956841.33	9250db72b69d78771e38e83c0b8cc6a9	kerrang	seek	2525	bar
+956841.67	9250db72b69d78771e38e83c0b8cc6a9	kerrang	seek	2518	
+956842	9250db72b69d78771e38e83c0b8cc6a9	kerrang	pause
+956842.33	9250db72b69d78771e38e83c0b8cc6a9	kerrang	seek	2526	
+956842.67	9250db72b69d78771e38e83c0b8cc6a9	kerrang	seek	2538	bar
+956872	9250db72b69d78771e38e83c0b8cc6a9	kerrang	stop
+959140	0ffef83abffc69cf0f57f5f30308bfc6	kerrang	stop
+989243	fadb2dd882703d132985bd055a66914f	kerrang	seek	0	restart
+989256	fadb2dd882703d132985bd055a66914f	kerrang	seek	434	shortcut Red Hot Chilis - Hump De Bump
+989347	fadb2dd882703d132985bd055a66914f	kerrang	seek	933	shortcut Fall Out Boy - This Ain't a Scene
+989386	fadb2dd882703d132985bd055a66914f	kerrang	seek	0	shortcut My Chemical Romance - The Black Parade
+989637	fadb2dd882703d132985bd055a66914f	kerrang	seek	2129	shortcut Linkin Park - What I've Done
+989884	fadb2dd882703d132985bd055a66914f	kerrang	seek	1372	shortcut Avril Lavigne - Girlfriend
+989916	fadb2dd882703d132985bd055a66914f	kerrang	stop
+1038744	b0e1935f8108d594a2b71e6fb4765edd	kerrang	seek	0	restart
+1038778	b0e1935f8108d594a2b71e6fb4765edd	kerrang	seek	82	fwd 60
+1038801	b0e1935f8108d594a2b71e6fb4765edd	kerrang	seek	1598	shortcut Fall Out Boy - Thks Fr Th Mmrs
+1039231	b0e1935f8108d594a2b71e6fb4765edd	kerrang	stop
+1048092	84b1de0ad6da5542c2326fdd951f4eb0	kerrang	seek	0	restart
+1048105	84b1de0ad6da5542c2326fdd951f4eb0	kerrang	pause
+1048117	84b1de0ad6da5542c2326fdd951f4eb0	kerrang	seek	1	
+1048152	84b1de0ad6da5542c2326fdd951f4eb0	kerrang	stop
+1058192	5ca59dbd6b4acf49bf708fcf14bac93c	kerrang	seek	0	restart
+1058220	5ca59dbd6b4acf49bf708fcf14bac93c	kerrang	seek	255	shortcut Elliot Minor - Parallel Worlds
+1058222	5ca59dbd6b4acf49bf708fcf14bac93c	kerrang	seek	434	shortcut Red Hot Chilis - Hump De Bump
+1058228	5ca59dbd6b4acf49bf708fcf14bac93c	kerrang	seek	933	shortcut Fall Out Boy - This Ain't a Scene
+1058595	5ca59dbd6b4acf49bf708fcf14bac93c	kerrang	stop
+1108055	b322718f417a26b5e5460dd7d665f400	kerrang	seek	0	restart
+1108068	b322718f417a26b5e5460dd7d665f400	kerrang	seek	71	fwd 60
+1108069	b322718f417a26b5e5460dd7d665f400	kerrang	seek	132	fwd 60
+1108085	b322718f417a26b5e5460dd7d665f400	kerrang	seek	434	shortcut Red Hot Chilis - Hump De Bump
+1108090	b322718f417a26b5e5460dd7d665f400	kerrang	seek	255	shortcut Elliot Minor - Parallel Worlds
+1108102	b322718f417a26b5e5460dd7d665f400	kerrang	seek	276	fwd 10
+1108136	b322718f417a26b5e5460dd7d665f400	kerrang	stop
+1111509	d9541e3f0d5baaee0a1b4cae10bbedd7	kerrang	seek	0	restart
+1111539	d9541e3f0d5baaee0a1b4cae10bbedd7	kerrang	stop
+1141161	c83721c3d09128dc1124f9543378d33d	kerrang	seek	0	restart
+1141165	c83721c3d09128dc1124f9543378d33d	kerrang	seek	694	shortcut Funeral For A Friend - Obilvion
+1141212	c83721c3d09128dc1124f9543378d33d	kerrang	stop
+1198283	8115353f6bcfa499c5f7cfd9070a2655	kerrang	seek	0	restart
+1198327	8115353f6bcfa499c5f7cfd9070a2655	kerrang	seek	694	shortcut Funeral For A Friend - Obilvion
+1198471	7eca2ba708c474d4619a9db4a45fcefc	kerrang	seek	0	restart
+1198754	7eca2ba708c474d4619a9db4a45fcefc	kerrang	seek	1372	shortcut Avril Lavigne - Girlfriend
+1198872	7eca2ba708c474d4619a9db4a45fcefc	kerrang	seek	2334	shortcut HelloGoodbye - Here (in your arms)
+1198896	7eca2ba708c474d4619a9db4a45fcefc	kerrang	seek	0	shortcut My Chemical Romance - The Black Parade
+1198933	7eca2ba708c474d4619a9db4a45fcefc	kerrang	stop
+1199359	8115353f6bcfa499c5f7cfd9070a2655	kerrang	stop
+1208824	7eca2ba708c474d4619a9db4a45fcefc	kerrang	seek	0	restart
+1208854	7eca2ba708c474d4619a9db4a45fcefc	kerrang	stop
+1224411	d9541e3f0d5baaee0a1b4cae10bbedd7	kerrang	seek	0	restart
+1224441	d9541e3f0d5baaee0a1b4cae10bbedd7	kerrang	stop
+1297807	70b5d517e0fe269466cfaeb459d3ee65	kerrang	seek	0	restart
+1297886	70b5d517e0fe269466cfaeb459d3ee65	kerrang	seek	1372	shortcut Avril Lavigne - Girlfriend
+1298113	70b5d517e0fe269466cfaeb459d3ee65	kerrang	seek	1372	shortcut Avril Lavigne - Girlfriend
+1298149	70b5d517e0fe269466cfaeb459d3ee65	kerrang	stop
+1303235	2e7584d62d242abf63fb801c3203c92e	kerrang	seek	0	restart
+1303237	2e7584d62d242abf63fb801c3203c92e	kerrang	seek	933	shortcut Fall Out Boy - This Ain't a Scene
+1303239	2e7584d62d242abf63fb801c3203c92e	kerrang	seek	694	shortcut Funeral For A Friend - Obilvion
+1303240	2e7584d62d242abf63fb801c3203c92e	kerrang	seek	434	shortcut Red Hot Chilis - Hump De Bump
+1303246	2e7584d62d242abf63fb801c3203c92e	kerrang	seek	450	fwd 10
+1303246.5	2e7584d62d242abf63fb801c3203c92e	kerrang	seek	460	fwd 10
+1303247	2e7584d62d242abf63fb801c3203c92e	kerrang	seek	470	fwd 10
+1303247.5	2e7584d62d242abf63fb801c3203c92e	kerrang	seek	480	fwd 10
+1303252	2e7584d62d242abf63fb801c3203c92e	kerrang	seek	494	fwd 10
+1303256	2e7584d62d242abf63fb801c3203c92e	kerrang	seek	1179	shortcut Good Charlotte - The River
+1303265	2e7584d62d242abf63fb801c3203c92e	kerrang	seek	2129	shortcut Linkin Park - What I've Done
+1303280	2e7584d62d242abf63fb801c3203c92e	kerrang	seek	2334	shortcut HelloGoodbye - Here (in your arms)
+1303577	2e7584d62d242abf63fb801c3203c92e	kerrang	stop
+1312672	1e0f42017246fe4685af74f5db45ff15	kerrang	seek	0	restart
+1312696	1e0f42017246fe4685af74f5db45ff15	kerrang	seek	434	shortcut Red Hot Chilis - Hump De Bump
+1312697	1e0f42017246fe4685af74f5db45ff15	kerrang	seek	694	shortcut Funeral For A Friend - Obilvion
+1312703	1e0f42017246fe4685af74f5db45ff15	kerrang	seek	2334	shortcut HelloGoodbye - Here (in your arms)
+1312711	1e0f42017246fe4685af74f5db45ff15	kerrang	seek	1598	shortcut Fall Out Boy - Thks Fr Th Mmrs
+1312781	1e0f42017246fe4685af74f5db45ff15	kerrang	seek	1372	shortcut Avril Lavigne - Girlfriend
+1312836	1e0f42017246fe4685af74f5db45ff15	kerrang	seek	434	shortcut Red Hot Chilis - Hump De Bump
+1312907	1e0f42017246fe4685af74f5db45ff15	kerrang	seek	2334	shortcut HelloGoodbye - Here (in your arms)
+1312954	1e0f42017246fe4685af74f5db45ff15	kerrang	stop
+1316755	d62dade48d09180482d8d2e6f39d0dcc	kerrang	seek	0	restart
+1316795	d62dade48d09180482d8d2e6f39d0dcc	kerrang	stop
+1321283	10d5af440298a3fd6db63860dd8ecf8c	kerrang	seek	0	restart
+1321285	10d5af440298a3fd6db63860dd8ecf8c	kerrang	seek	933	shortcut Fall Out Boy - This Ain't a Scene
+1323028	10d5af440298a3fd6db63860dd8ecf8c	kerrang	seek	694	shortcut Funeral For A Friend - Obilvion
+1323092	10d5af440298a3fd6db63860dd8ecf8c	kerrang	stop
+1398759	0670c6d9ed372311975f2189f25ff406	kerrang	seek	0	restart
+1399008	0670c6d9ed372311975f2189f25ff406	kerrang	seek	1179	shortcut Good Charlotte - The River
+1399008.5	0670c6d9ed372311975f2189f25ff406	kerrang	seek	1372	shortcut Avril Lavigne - Girlfriend
+1399272	0670c6d9ed372311975f2189f25ff406	kerrang	stop
+1500629	9955e5ed8fb9399b17c3826327132a89	kerrang	seek	0	restart
+1500659	9955e5ed8fb9399b17c3826327132a89	kerrang	stop
+1504433	1bde11907e509aca838275c5d4d18a1b	kerrang	stop
+1512720	e2e15b63ccdd61cf4acbabbe2fe186c0	kerrang	seek	0	restart
+1514594	e2e15b63ccdd61cf4acbabbe2fe186c0	kerrang	seek	2129	shortcut Linkin Park - What I've Done
+1515051	e2e15b63ccdd61cf4acbabbe2fe186c0	kerrang	stop
+1581247	11f0e1a264f80415279798d7fc514edd	kerrang	seek	0	restart
+1581251	11f0e1a264f80415279798d7fc514edd	kerrang	seek	63	fwd 60
+1581254	11f0e1a264f80415279798d7fc514edd	kerrang	seek	125	fwd 60
+1581264	11f0e1a264f80415279798d7fc514edd	kerrang	seek	196	fwd 60
+1581265	11f0e1a264f80415279798d7fc514edd	kerrang	seek	256	fwd 60
+1581538	11f0e1a264f80415279798d7fc514edd	kerrang	seek	588	fwd 60
+1581539	11f0e1a264f80415279798d7fc514edd	kerrang	seek	649	fwd 60
+1581541	11f0e1a264f80415279798d7fc514edd	kerrang	seek	710	fwd 60
+1582730	11f0e1a264f80415279798d7fc514edd	kerrang	seek	1960	fwd 60
+1582731	11f0e1a264f80415279798d7fc514edd	kerrang	seek	2020	fwd 60
+1582732	11f0e1a264f80415279798d7fc514edd	kerrang	seek	2081	fwd 60
+1582733	11f0e1a264f80415279798d7fc514edd	kerrang	seek	2141	fwd 60
+1583859	11f0e1a264f80415279798d7fc514edd	kerrang	stop
+1631888	c5b31a6d9073717af351b4e0d3af40f5	kerrang	seek	0	restart
+1631919	c5b31a6d9073717af351b4e0d3af40f5	kerrang	seek	434	shortcut Red Hot Chilis - Hump De Bump
+1631924	c5b31a6d9073717af351b4e0d3af40f5	kerrang	seek	0	shortcut My Chemical Romance - The Black Parade
+1632008	c5b31a6d9073717af351b4e0d3af40f5	kerrang	stop
+1653783	9e102b44f1c467190f619051769bb73d	kerrang	seek	0	restart
+1653825	9e102b44f1c467190f619051769bb73d	kerrang	seek	255	shortcut Elliot Minor - Parallel Worlds
+1653840	9e102b44f1c467190f619051769bb73d	kerrang	seek	1372	shortcut Avril Lavigne - Girlfriend
+1655047	9e102b44f1c467190f619051769bb73d	kerrang	seek	434	shortcut Red Hot Chilis - Hump De Bump
+1655447	9e102b44f1c467190f619051769bb73d	kerrang	seek	933	shortcut Fall Out Boy - This Ain't a Scene
+1655852	9e102b44f1c467190f619051769bb73d	kerrang	stop
+1689456	053e52a3546ffeb9873c19f3bdd253e6	kerrang	seek	0	restart
+1689470	053e52a3546ffeb9873c19f3bdd253e6	kerrang	seek	1372	shortcut Avril Lavigne - Girlfriend
+1689547	053e52a3546ffeb9873c19f3bdd253e6	kerrang	stop
+1791377	2b43e81c33042e558397aa91e9ef6fb9	kerrang	seek	0	restart
+1791390	2b43e81c33042e558397aa91e9ef6fb9	kerrang	pause
+1791391	2b43e81c33042e558397aa91e9ef6fb9	kerrang	seek	1238	bar
+1791391.5	2b43e81c33042e558397aa91e9ef6fb9	kerrang	seek	12	
+1791399	2b43e81c33042e558397aa91e9ef6fb9	kerrang	pause
+1791399.33	2b43e81c33042e558397aa91e9ef6fb9	kerrang	seek	1246	
+1791399.67	2b43e81c33042e558397aa91e9ef6fb9	kerrang	seek	1887	bar
+1791429	2b43e81c33042e558397aa91e9ef6fb9	kerrang	stop
+1832638	57b0bc084e0fd9189813dd80bd3e3036	kerrang	seek	0	restart
+1832655	57b0bc084e0fd9189813dd80bd3e3036	kerrang	pause
+1832669	57b0bc084e0fd9189813dd80bd3e3036	kerrang	seek	5	
+1832699	57b0bc084e0fd9189813dd80bd3e3036	kerrang	stop
+1908594	a6b4db51bb661171a919b5e0e089fa36	kerrang	seek	0	restart
+1908607	a6b4db51bb661171a919b5e0e089fa36	kerrang	seek	20	fwd 10
+1908611	a6b4db51bb661171a919b5e0e089fa36	kerrang	seek	83	fwd 60
+1908612	a6b4db51bb661171a919b5e0e089fa36	kerrang	seek	144	fwd 60
+1908615	a6b4db51bb661171a919b5e0e089fa36	kerrang	seek	207	fwd 60
+1908617	a6b4db51bb661171a919b5e0e089fa36	kerrang	seek	268	fwd 60
+1908632	a6b4db51bb661171a919b5e0e089fa36	kerrang	seek	1372	shortcut Avril Lavigne - Girlfriend
+1908632.5	a6b4db51bb661171a919b5e0e089fa36	kerrang	seek	1372	shortcut Avril Lavigne - Girlfriend
+1908639	a6b4db51bb661171a919b5e0e089fa36	kerrang	seek	2334	shortcut HelloGoodbye - Here (in your arms)
+1908639.5	a6b4db51bb661171a919b5e0e089fa36	kerrang	seek	2334	shortcut HelloGoodbye - Here (in your arms)
+1908647	a6b4db51bb661171a919b5e0e089fa36	kerrang	seek	1372	shortcut Avril Lavigne - Girlfriend
+1908649	a6b4db51bb661171a919b5e0e089fa36	kerrang	seek	2334	shortcut HelloGoodbye - Here (in your arms)
+1908732	a6b4db51bb661171a919b5e0e089fa36	kerrang	seek	1372	shortcut Avril Lavigne - Girlfriend
+1908732.5	a6b4db51bb661171a919b5e0e089fa36	kerrang	seek	1372	shortcut Avril Lavigne - Girlfriend
+1908795	a6b4db51bb661171a919b5e0e089fa36	kerrang	seek	2334	shortcut HelloGoodbye - Here (in your arms)
+1908795.5	a6b4db51bb661171a919b5e0e089fa36	kerrang	seek	2334	shortcut HelloGoodbye - Here (in your arms)
+1908826	a6b4db51bb661171a919b5e0e089fa36	kerrang	stop
+1909940	f8216153b302b174575a22b11185bcb0	kerrang	seek	0	restart
+1909942	f8216153b302b174575a22b11185bcb0	kerrang	pause
+1910018	f8216153b302b174575a22b11185bcb0	kerrang	seek	1598	shortcut Fall Out Boy - Thks Fr Th Mmrs
+1910271	f8216153b302b174575a22b11185bcb0	kerrang	seek	933	shortcut Fall Out Boy - This Ain't a Scene
+1910524	f8216153b302b174575a22b11185bcb0	kerrang	pause
+1910663	f8216153b302b174575a22b11185bcb0	kerrang	stop
+1927579	c76aa5668c0a6701f57aceecdb02fa21	kerrang	seek	0	restart
+1927581	c76aa5668c0a6701f57aceecdb02fa21	kerrang	seek	933	shortcut Fall Out Boy - This Ain't a Scene
+1927594	c76aa5668c0a6701f57aceecdb02fa21	kerrang	seek	255	shortcut Elliot Minor - Parallel Worlds
+1927595	c76aa5668c0a6701f57aceecdb02fa21	kerrang	seek	0	shortcut My Chemical Romance - The Black Parade
+1927617	c76aa5668c0a6701f57aceecdb02fa21	kerrang	pause
+1927617.33	c76aa5668c0a6701f57aceecdb02fa21	kerrang	seek	21	
+1927617.67	c76aa5668c0a6701f57aceecdb02fa21	kerrang	seek	58	bar
+1927618	c76aa5668c0a6701f57aceecdb02fa21	kerrang	pause
+1927619	c76aa5668c0a6701f57aceecdb02fa21	kerrang	seek	87	bar
+1927619.5	c76aa5668c0a6701f57aceecdb02fa21	kerrang	seek	59	
+1927623	c76aa5668c0a6701f57aceecdb02fa21	kerrang	seek	255	shortcut Elliot Minor - Parallel Worlds
+1927626	c76aa5668c0a6701f57aceecdb02fa21	kerrang	pause
+1927627	c76aa5668c0a6701f57aceecdb02fa21	kerrang	seek	298	bar
+1927627.5	c76aa5668c0a6701f57aceecdb02fa21	kerrang	seek	258	
+1927634	c76aa5668c0a6701f57aceecdb02fa21	kerrang	pause
+1927635	c76aa5668c0a6701f57aceecdb02fa21	kerrang	seek	306	
+1927635.33	c76aa5668c0a6701f57aceecdb02fa21	kerrang	seek	288	bar
+1927635.67	c76aa5668c0a6701f57aceecdb02fa21	kerrang	pause
+1927636	c76aa5668c0a6701f57aceecdb02fa21	kerrang	seek	288	
+1927636.5	c76aa5668c0a6701f57aceecdb02fa21	kerrang	seek	271	bar
+1927640	c76aa5668c0a6701f57aceecdb02fa21	kerrang	pause
+1927641	c76aa5668c0a6701f57aceecdb02fa21	kerrang	seek	275	
+1927641.5	c76aa5668c0a6701f57aceecdb02fa21	kerrang	seek	215	bar
+1927642	c76aa5668c0a6701f57aceecdb02fa21	kerrang	pause
+1927643	c76aa5668c0a6701f57aceecdb02fa21	kerrang	seek	244	bar
+1927643.33	c76aa5668c0a6701f57aceecdb02fa21	kerrang	seek	216	
+1927643.67	c76aa5668c0a6701f57aceecdb02fa21	kerrang	pause
+1927644	c76aa5668c0a6701f57aceecdb02fa21	kerrang	seek	245	
+1927644.5	c76aa5668c0a6701f57aceecdb02fa21	kerrang	seek	269	bar
+1927645	c76aa5668c0a6701f57aceecdb02fa21	kerrang	pause
+1927645.33	c76aa5668c0a6701f57aceecdb02fa21	kerrang	seek	252	bar
+1927645.67	c76aa5668c0a6701f57aceecdb02fa21	kerrang	seek	270	
+1927774	c76aa5668c0a6701f57aceecdb02fa21	kerrang	seek	434	shortcut Red Hot Chilis - Hump De Bump
+1927994	c76aa5668c0a6701f57aceecdb02fa21	kerrang	seek	694	shortcut Funeral For A Friend - Obilvion
+1928523	c76aa5668c0a6701f57aceecdb02fa21	kerrang	pause
+1929104	c76aa5668c0a6701f57aceecdb02fa21	kerrang	seek	1222	
+1929562	c76aa5668c0a6701f57aceecdb02fa21	kerrang	seek	2129	shortcut Linkin Park - What I've Done
+1929650	c76aa5668c0a6701f57aceecdb02fa21	kerrang	pause
+1929652	c76aa5668c0a6701f57aceecdb02fa21	kerrang	seek	2216	
+1929652.5	c76aa5668c0a6701f57aceecdb02fa21	kerrang	seek	2286	bar
+1929689	c76aa5668c0a6701f57aceecdb02fa21	kerrang	stop
+1975821	acfe485d94a2d41e9610daf078272894	kerrang	seek	0	restart
+1975859	acfe485d94a2d41e9610daf078272894	kerrang	pause
+1975860	acfe485d94a2d41e9610daf078272894	kerrang	seek	37	
+1975860.5	acfe485d94a2d41e9610daf078272894	kerrang	seek	78	bar
+1975865	acfe485d94a2d41e9610daf078272894	kerrang	pause
+1975866	acfe485d94a2d41e9610daf078272894	kerrang	seek	84	
+1975866.5	acfe485d94a2d41e9610daf078272894	kerrang	seek	99	bar
+1975878	acfe485d94a2d41e9610daf078272894	kerrang	pause
+1975878.33	acfe485d94a2d41e9610daf078272894	kerrang	seek	111	
+1975878.67	acfe485d94a2d41e9610daf078272894	kerrang	seek	143	bar
+1975879	acfe485d94a2d41e9610daf078272894	kerrang	pause
+1975880	acfe485d94a2d41e9610daf078272894	kerrang	seek	144	
+1975880.5	acfe485d94a2d41e9610daf078272894	kerrang	seek	168	bar
+1975900	acfe485d94a2d41e9610daf078272894	kerrang	pause
+1975901	acfe485d94a2d41e9610daf078272894	kerrang	seek	188	
+1975901.5	acfe485d94a2d41e9610daf078272894	kerrang	seek	245	bar
+1975949	acfe485d94a2d41e9610daf078272894	kerrang	pause
+1975949.33	acfe485d94a2d41e9610daf078272894	kerrang	seek	293	
+1975949.67	acfe485d94a2d41e9610daf078272894	kerrang	seek	488	bar
+1975951	acfe485d94a2d41e9610daf078272894	kerrang	pause
+1975951.33	acfe485d94a2d41e9610daf078272894	kerrang	seek	489	
+1975951.67	acfe485d94a2d41e9610daf078272894	kerrang	seek	455	bar
+1975953	acfe485d94a2d41e9610daf078272894	kerrang	pause
+1975953.33	acfe485d94a2d41e9610daf078272894	kerrang	seek	456	
+1975953.67	acfe485d94a2d41e9610daf078272894	kerrang	seek	443	bar
+1975954	acfe485d94a2d41e9610daf078272894	kerrang	pause
+1975954.33	acfe485d94a2d41e9610daf078272894	kerrang	seek	444	
+1975954.67	acfe485d94a2d41e9610daf078272894	kerrang	seek	435	bar
+1975955	acfe485d94a2d41e9610daf078272894	kerrang	pause
+1975956	acfe485d94a2d41e9610daf078272894	kerrang	seek	436	
+1975956.5	acfe485d94a2d41e9610daf078272894	kerrang	seek	422	bar
+1975957	acfe485d94a2d41e9610daf078272894	kerrang	pause
+1975958	acfe485d94a2d41e9610daf078272894	kerrang	seek	423	
+1975958.5	acfe485d94a2d41e9610daf078272894	kerrang	seek	427	bar
+1976700	acfe485d94a2d41e9610daf078272894	kerrang	seek	1179	shortcut Good Charlotte - The River
+1976718	acfe485d94a2d41e9610daf078272894	kerrang	seek	1372	shortcut Avril Lavigne - Girlfriend
+1976770	acfe485d94a2d41e9610daf078272894	kerrang	seek	2334	shortcut HelloGoodbye - Here (in your arms)
+1976886	acfe485d94a2d41e9610daf078272894	kerrang	stop
+1985311	1c48c93e8d8846d438853ca245e2e398	kerrang	seek	0	restart
+1985341	1c48c93e8d8846d438853ca245e2e398	kerrang	stop
+1992729	4d45d6d919bba20d21171c10c08142fd	kerrang	seek	0	restart
+1992734	4d45d6d919bba20d21171c10c08142fd	kerrang	pause
+1992735	4d45d6d919bba20d21171c10c08142fd	kerrang	seek	4	
+1992735.5	4d45d6d919bba20d21171c10c08142fd	kerrang	seek	607	bar
+1992736	4d45d6d919bba20d21171c10c08142fd	kerrang	pause
+1992737	4d45d6d919bba20d21171c10c08142fd	kerrang	seek	608	
+1992737.5	4d45d6d919bba20d21171c10c08142fd	kerrang	seek	1049	bar
+1992738	4d45d6d919bba20d21171c10c08142fd	kerrang	pause
+1992738.33	4d45d6d919bba20d21171c10c08142fd	kerrang	seek	1051	
+1992738.67	4d45d6d919bba20d21171c10c08142fd	kerrang	seek	1567	bar
+1992739	4d45d6d919bba20d21171c10c08142fd	kerrang	pause
+1992740	4d45d6d919bba20d21171c10c08142fd	kerrang	seek	1568	
+1992740.5	4d45d6d919bba20d21171c10c08142fd	kerrang	seek	1921	bar
+1992741	4d45d6d919bba20d21171c10c08142fd	kerrang	pause
+1992741.33	4d45d6d919bba20d21171c10c08142fd	kerrang	seek	1922	
+1992741.67	4d45d6d919bba20d21171c10c08142fd	kerrang	seek	2042	bar
+1992742	4d45d6d919bba20d21171c10c08142fd	kerrang	pause
+1992742.33	4d45d6d919bba20d21171c10c08142fd	kerrang	seek	2043	
+1992742.67	4d45d6d919bba20d21171c10c08142fd	kerrang	seek	2167	bar
+1992744	4d45d6d919bba20d21171c10c08142fd	kerrang	pause
+1992744.33	4d45d6d919bba20d21171c10c08142fd	kerrang	seek	2169	
+1992744.67	4d45d6d919bba20d21171c10c08142fd	kerrang	seek	2280	bar
+1992774	4d45d6d919bba20d21171c10c08142fd	kerrang	stop
+2103587	abe13355776b2b572ee1a21b3e638109	kerrang	seek	0	restart
+2103637	abe13355776b2b572ee1a21b3e638109	kerrang	stop
+2227682	ff9675276aa2fed5da75128eabc3cefc	kerrang	seek	0	restart
+2227722	ff9675276aa2fed5da75128eabc3cefc	kerrang	stop
+2231970	4f3351e91dadacfa730ba3e007f65ef7	kerrang	seek	0	restart
+2231974	4f3351e91dadacfa730ba3e007f65ef7	kerrang	seek	434	shortcut Red Hot Chilis - Hump De Bump
+2232089	4f3351e91dadacfa730ba3e007f65ef7	kerrang	seek	933	shortcut Fall Out Boy - This Ain't a Scene
+2232131	4f3351e91dadacfa730ba3e007f65ef7	kerrang	seek	1372	shortcut Avril Lavigne - Girlfriend
+2232345	4f3351e91dadacfa730ba3e007f65ef7	kerrang	seek	2334	shortcut HelloGoodbye - Here (in your arms)
+2232360	4f3351e91dadacfa730ba3e007f65ef7	kerrang	pause
+2232818	4f3351e91dadacfa730ba3e007f65ef7	kerrang	seek	2349	
+2232870	4f3351e91dadacfa730ba3e007f65ef7	kerrang	seek	933	shortcut Fall Out Boy - This Ain't a Scene
+2232872	4f3351e91dadacfa730ba3e007f65ef7	kerrang	seek	1598	shortcut Fall Out Boy - Thks Fr Th Mmrs
+2232900	4f3351e91dadacfa730ba3e007f65ef7	kerrang	seek	933	shortcut Fall Out Boy - This Ain't a Scene
+2232913	4f3351e91dadacfa730ba3e007f65ef7	kerrang	seek	255	shortcut Elliot Minor - Parallel Worlds
+2232929	4f3351e91dadacfa730ba3e007f65ef7	kerrang	seek	0	shortcut My Chemical Romance - The Black Parade
+2233155	4f3351e91dadacfa730ba3e007f65ef7	kerrang	stop
+2600904	2c1b03500f48fc1cf4597bb784f50c70	kerrang	seek	0	restart
+2600910	2c1b03500f48fc1cf4597bb784f50c70	kerrang	seek	0	restart
+2600915	2c1b03500f48fc1cf4597bb784f50c70	kerrang	seek	0	restart
+2600945	2c1b03500f48fc1cf4597bb784f50c70	kerrang	stop
+2626359	2e5c6856110a64e146d8f2bad5f9c67b	kerrang	seek	0	restart
+2626368	2e5c6856110a64e146d8f2bad5f9c67b	kerrang	seek	694	shortcut Funeral For A Friend - Obilvion
+2626560	2e5c6856110a64e146d8f2bad5f9c67b	kerrang	stop
+2751429	270d9a2656b316d29e0249ed99db413d	kerrang	seek	0	restart
+2751438	270d9a2656b316d29e0249ed99db413d	kerrang	seek	694	shortcut Funeral For A Friend - Obilvion
+2751440	270d9a2656b316d29e0249ed99db413d	kerrang	seek	755	fwd 60
+2751470	270d9a2656b316d29e0249ed99db413d	kerrang	stop
+2762293	21f03df98211e206665a3bee1b80c367	kerrang	seek	0	restart
+2762304	21f03df98211e206665a3bee1b80c367	kerrang	seek	434	shortcut Red Hot Chilis - Hump De Bump
+2762326	21f03df98211e206665a3bee1b80c367	kerrang	seek	465	fwd 10
+2762327	21f03df98211e206665a3bee1b80c367	kerrang	seek	477	fwd 10
+2762394	21f03df98211e206665a3bee1b80c367	kerrang	stop
+2816916	aac8695e9c60ac8e98be43e16bda65d4	kerrang	seek	0	restart
+2817004	aac8695e9c60ac8e98be43e16bda65d4	kerrang	seek	2334	shortcut HelloGoodbye - Here (in your arms)
+2817021	aac8695e9c60ac8e98be43e16bda65d4	kerrang	pause
+2817054	aac8695e9c60ac8e98be43e16bda65d4	kerrang	stop
+2868508	e774c4abf13763a5f0f1f1748b428f76	kerrang	seek	0	restart
+2868514	e774c4abf13763a5f0f1f1748b428f76	kerrang	seek	15	fwd 10
+2868516	e774c4abf13763a5f0f1f1748b428f76	kerrang	seek	76	fwd 60
+2868517	e774c4abf13763a5f0f1f1748b428f76	kerrang	seek	137	fwd 60
+2868518	e774c4abf13763a5f0f1f1748b428f76	kerrang	seek	197	fwd 60
+2868519	e774c4abf13763a5f0f1f1748b428f76	kerrang	seek	258	fwd 60
+2868525	e774c4abf13763a5f0f1f1748b428f76	kerrang	seek	252	back 10
+2868525.5	e774c4abf13763a5f0f1f1748b428f76	kerrang	seek	242	back 10
+2868527	e774c4abf13763a5f0f1f1748b428f76	kerrang	seek	254	fwd 10
+2868528	e774c4abf13763a5f0f1f1748b428f76	kerrang	seek	265	fwd 10
+2868530	e774c4abf13763a5f0f1f1748b428f76	kerrang	seek	326	fwd 60
+2868532	e774c4abf13763a5f0f1f1748b428f76	kerrang	seek	387	fwd 60
+2868533	e774c4abf13763a5f0f1f1748b428f76	kerrang	seek	448	fwd 60
+2868536	e774c4abf13763a5f0f1f1748b428f76	kerrang	seek	441	back 10
+2868537	e774c4abf13763a5f0f1f1748b428f76	kerrang	seek	431	back 10
+2868539	e774c4abf13763a5f0f1f1748b428f76	kerrang	seek	442	fwd 10
+2868545	e774c4abf13763a5f0f1f1748b428f76	kerrang	seek	457	fwd 10
+2868619	e774c4abf13763a5f0f1f1748b428f76	kerrang	seek	592	fwd 60
+2868620	e774c4abf13763a5f0f1f1748b428f76	kerrang	seek	652	fwd 60
+2868622	e774c4abf13763a5f0f1f1748b428f76	kerrang	seek	713	fwd 60
+2868624	e774c4abf13763a5f0f1f1748b428f76	kerrang	seek	705	back 10
+2868767	e774c4abf13763a5f0f1f1748b428f76	kerrang	seek	2334	shortcut HelloGoodbye - Here (in your arms)
+2868784	e774c4abf13763a5f0f1f1748b428f76	kerrang	seek	1598	shortcut Fall Out Boy - Thks Fr Th Mmrs
+2868787	e774c4abf13763a5f0f1f1748b428f76	kerrang	seek	1179	shortcut Good Charlotte - The River
+2868809	e774c4abf13763a5f0f1f1748b428f76	kerrang	seek	1179	shortcut Good Charlotte - The River
+2869101	e774c4abf13763a5f0f1f1748b428f76	kerrang	stop
+3029104	46f69d59878edbbff2aa8d2b2729946c	kerrang	seek	0	restart
+3029122	46f69d59878edbbff2aa8d2b2729946c	kerrang	seek	2334	shortcut HelloGoodbye - Here (in your arms)
+3029150	46f69d59878edbbff2aa8d2b2729946c	kerrang	seek	0	restart
+3029180	46f69d59878edbbff2aa8d2b2729946c	kerrang	stop
+3315618	b55ead4eaf734a12db14e476b834c44b	kerrang	seek	0	restart
+3315658	b55ead4eaf734a12db14e476b834c44b	kerrang	stop
+3407659	047bacfbee6a2b4aa08e80ac55945af7	kerrang	seek	0	restart
+3407667	047bacfbee6a2b4aa08e80ac55945af7	kerrang	seek	2334	shortcut HelloGoodbye - Here (in your arms)
+3407699	047bacfbee6a2b4aa08e80ac55945af7	kerrang	stop
+3461538	9ebd66a1947c781465c559d89e03cbde	kerrang	seek	0	restart
+3461550	9ebd66a1947c781465c559d89e03cbde	kerrang	pause
+3461598	9ebd66a1947c781465c559d89e03cbde	kerrang	stop
+3475834	047bacfbee6a2b4aa08e80ac55945af7	kerrang	seek	0	restart
+3475864	047bacfbee6a2b4aa08e80ac55945af7	kerrang	stop
+3522771	ba947c6fbcd018012e4bf310043f1d1a	kerrang	seek	0	restart
+3522811	ba947c6fbcd018012e4bf310043f1d1a	kerrang	seek	933	shortcut Fall Out Boy - This Ain't a Scene
+3522822	ba947c6fbcd018012e4bf310043f1d1a	kerrang	seek	2334	shortcut HelloGoodbye - Here (in your arms)
+3522881	ba947c6fbcd018012e4bf310043f1d1a	kerrang	stop
+3556726	11b6d02294986489fa93313ddb2b090a	kerrang	seek	0	restart
+3556735	11b6d02294986489fa93313ddb2b090a	kerrang	seek	694	shortcut Funeral For A Friend - Obilvion
+3556737	11b6d02294986489fa93313ddb2b090a	kerrang	seek	434	shortcut Red Hot Chilis - Hump De Bump
+3556767	11b6d02294986489fa93313ddb2b090a	kerrang	stop
+3712233	556a4528b999527d75d9177113c7511f	kerrang	seek	0	restart
+3712343	556a4528b999527d75d9177113c7511f	kerrang	stop
+3804545	fba5e05fd2230c5ee16c54ec284f40c5	kerrang	seek	0	restart
+3804611	fba5e05fd2230c5ee16c54ec284f40c5	kerrang	seek	1598	shortcut Fall Out Boy - Thks Fr Th Mmrs
+3804746	fba5e05fd2230c5ee16c54ec284f40c5	kerrang	stop
+3968917	99caf39410caf36534b972df367be620	kerrang	seek	0	restart
+3968930	99caf39410caf36534b972df367be620	kerrang	seek	0	shortcut My Chemical Romance - The Black Parade
+3968940	99caf39410caf36534b972df367be620	kerrang	seek	69	fwd 60
+3968941	99caf39410caf36534b972df367be620	kerrang	seek	130	fwd 60
+3968942	99caf39410caf36534b972df367be620	kerrang	seek	190	fwd 60
+3968945	99caf39410caf36534b972df367be620	kerrang	seek	1372	shortcut Avril Lavigne - Girlfriend
+3968954	99caf39410caf36534b972df367be620	kerrang	seek	434	shortcut Red Hot Chilis - Hump De Bump
+3968962	99caf39410caf36534b972df367be620	kerrang	seek	502	fwd 60
+3968979	99caf39410caf36534b972df367be620	kerrang	seek	579	fwd 60
+3968980	99caf39410caf36534b972df367be620	kerrang	seek	640	fwd 60
+3969010	99caf39410caf36534b972df367be620	kerrang	stop
+3970645	dc8c3b58bacfca55e16e8af159ddf4a0	kerrang	seek	0	restart
+3970662	dc8c3b58bacfca55e16e8af159ddf4a0	kerrang	seek	933	shortcut Fall Out Boy - This Ain't a Scene
+3970715	dc8c3b58bacfca55e16e8af159ddf4a0	kerrang	stop
+4248620	5e2e492db3213bc2c34cb7e624f9d548	kerrang	seek	0	restart
+4248622	5e2e492db3213bc2c34cb7e624f9d548	kerrang	pause
+4248673	5e2e492db3213bc2c34cb7e624f9d548	kerrang	seek	0	restart
+4248685	5e2e492db3213bc2c34cb7e624f9d548	kerrang	pause
+4248770	5e2e492db3213bc2c34cb7e624f9d548	kerrang	seek	12	
+4248781	5e2e492db3213bc2c34cb7e624f9d548	kerrang	seek	933	shortcut Fall Out Boy - This Ain't a Scene
+4248807	5e2e492db3213bc2c34cb7e624f9d548	kerrang	pause
+4248811	5e2e492db3213bc2c34cb7e624f9d548	kerrang	seek	960	
+4249535	5e2e492db3213bc2c34cb7e624f9d548	kerrang	pause
+4249535.5	5e2e492db3213bc2c34cb7e624f9d548	kerrang	seek	1683	
+4249748	5e2e492db3213bc2c34cb7e624f9d548	kerrang	pause
+4249749	5e2e492db3213bc2c34cb7e624f9d548	kerrang	seek	1895	
+4249749.5	5e2e492db3213bc2c34cb7e624f9d548	kerrang	seek	1940	bar
+4249750	5e2e492db3213bc2c34cb7e624f9d548	kerrang	pause
+4249750.33	5e2e492db3213bc2c34cb7e624f9d548	kerrang	seek	1941	
+4249750.67	5e2e492db3213bc2c34cb7e624f9d548	kerrang	seek	1977	bar
+4249752	5e2e492db3213bc2c34cb7e624f9d548	kerrang	pause
+4249752.33	5e2e492db3213bc2c34cb7e624f9d548	kerrang	seek	1979	
+4249752.67	5e2e492db3213bc2c34cb7e624f9d548	kerrang	seek	1994	bar
+4249753	5e2e492db3213bc2c34cb7e624f9d548	kerrang	pause
+4249753.33	5e2e492db3213bc2c34cb7e624f9d548	kerrang	seek	1995	
+4249753.67	5e2e492db3213bc2c34cb7e624f9d548	kerrang	seek	2015	bar
+4249755	5e2e492db3213bc2c34cb7e624f9d548	kerrang	pause
+4249755.25	5e2e492db3213bc2c34cb7e624f9d548	kerrang	seek	2016	
+4249755.5	5e2e492db3213bc2c34cb7e624f9d548	kerrang	seek	2019	bar
+4249755.75	5e2e492db3213bc2c34cb7e624f9d548	kerrang	pause
+4249756	5e2e492db3213bc2c34cb7e624f9d548	kerrang	seek	2019	
+4249756.33	5e2e492db3213bc2c34cb7e624f9d548	kerrang	seek	2019	bar
+4249756.67	5e2e492db3213bc2c34cb7e624f9d548	kerrang	pause
+4249757	5e2e492db3213bc2c34cb7e624f9d548	kerrang	seek	2020	
+4249757.5	5e2e492db3213bc2c34cb7e624f9d548	kerrang	seek	2023	bar
+4249780	5e2e492db3213bc2c34cb7e624f9d548	kerrang	pause
+4249781	5e2e492db3213bc2c34cb7e624f9d548	kerrang	seek	2047	
+4249781.5	5e2e492db3213bc2c34cb7e624f9d548	kerrang	seek	2075	bar
+4249782	5e2e492db3213bc2c34cb7e624f9d548	kerrang	pause
+4249782.33	5e2e492db3213bc2c34cb7e624f9d548	kerrang	seek	2076	
+4249782.67	5e2e492db3213bc2c34cb7e624f9d548	kerrang	seek	2087	bar
+4249784	5e2e492db3213bc2c34cb7e624f9d548	kerrang	pause
+4249785	5e2e492db3213bc2c34cb7e624f9d548	kerrang	seek	2089	
+4249785.5	5e2e492db3213bc2c34cb7e624f9d548	kerrang	seek	2117	bar
+4251024	5e2e492db3213bc2c34cb7e624f9d548	kerrang	stop
+4482833	08f92352c0fd49349552969608b951f2	kerrang	seek	0	restart
+4482883	08f92352c0fd49349552969608b951f2	kerrang	stop
+4485247	cc11c59d1f86b575c19d50da18d8fdfe	kerrang	seek	0	restart
+4485531	cc11c59d1f86b575c19d50da18d8fdfe	kerrang	seek	933	shortcut Fall Out Boy - This Ain't a Scene
+4485741	cc11c59d1f86b575c19d50da18d8fdfe	kerrang	seek	2334	shortcut HelloGoodbye - Here (in your arms)
+4486001	cc11c59d1f86b575c19d50da18d8fdfe	kerrang	stop
+4577493	750f1f9d31144101d930f25b490283b4	kerrang	seek	0	restart
+4577534	750f1f9d31144101d930f25b490283b4	kerrang	seek	1372	shortcut Avril Lavigne - Girlfriend
+4577605	750f1f9d31144101d930f25b490283b4	kerrang	stop
+6252908	cf3d7b3cfc1c2ee2dfd497160c0a4387	kerrang	seek	0	restart
+6252949	cf3d7b3cfc1c2ee2dfd497160c0a4387	kerrang	seek	0	restart
+6253020	cf3d7b3cfc1c2ee2dfd497160c0a4387	kerrang	seek	434	shortcut Red Hot Chilis - Hump De Bump
+6253241	cf3d7b3cfc1c2ee2dfd497160c0a4387	kerrang	seek	2129	shortcut Linkin Park - What I've Done
+6253249	cf3d7b3cfc1c2ee2dfd497160c0a4387	kerrang	seek	2334	shortcut HelloGoodbye - Here (in your arms)
+6253251	cf3d7b3cfc1c2ee2dfd497160c0a4387	kerrang	seek	2129	shortcut Linkin Park - What I've Done
+6253292	cf3d7b3cfc1c2ee2dfd497160c0a4387	kerrang	seek	0	shortcut My Chemical Romance - The Black Parade
+6253295	cf3d7b3cfc1c2ee2dfd497160c0a4387	kerrang	seek	255	shortcut Elliot Minor - Parallel Worlds
+6253314	cf3d7b3cfc1c2ee2dfd497160c0a4387	kerrang	seek	2334	shortcut HelloGoodbye - Here (in your arms)
+6253500	cf3d7b3cfc1c2ee2dfd497160c0a4387	kerrang	seek	1372	shortcut Avril Lavigne - Girlfriend
+6253779	cf3d7b3cfc1c2ee2dfd497160c0a4387	kerrang	seek	255	shortcut Elliot Minor - Parallel Worlds
+6253864	cf3d7b3cfc1c2ee2dfd497160c0a4387	kerrang	stop
+7431361	6b4331a4ecc142ee5581590df50ef68f	kerrang	seek	0	restart
+7431362	6b4331a4ecc142ee5581590df50ef68f	kerrang	pause
+7431364	6b4331a4ecc142ee5581590df50ef68f	kerrang	seek	0	
+7431366	6b4331a4ecc142ee5581590df50ef68f	kerrang	seek	12	fwd 10
+7431368	6b4331a4ecc142ee5581590df50ef68f	kerrang	seek	73	fwd 60
+7431369	6b4331a4ecc142ee5581590df50ef68f	kerrang	seek	134	fwd 60
+7431371	6b4331a4ecc142ee5581590df50ef68f	kerrang	seek	196	fwd 60
+7431373	6b4331a4ecc142ee5581590df50ef68f	kerrang	seek	258	fwd 60
+7431379	6b4331a4ecc142ee5581590df50ef68f	kerrang	pause
+7431421	6b4331a4ecc142ee5581590df50ef68f	kerrang	stop
+8480103	2825bddec9f8029432046b46903ecb8b	kerrang	seek	0	restart
+8480607	2825bddec9f8029432046b46903ecb8b	kerrang	seek	1372	shortcut Avril Lavigne - Girlfriend
+8481180	2825bddec9f8029432046b46903ecb8b	kerrang	seek	434	shortcut Red Hot Chilis - Hump De Bump
+8481604	2825bddec9f8029432046b46903ecb8b	kerrang	stop
+8977198	d69de71406459d8814a5c6aa6d40aadb	kerrang	seek	0	restart
+8977238	d69de71406459d8814a5c6aa6d40aadb	kerrang	stop

@@ -1,0 +1,1 @@
+javadoc -classpath . -private -d api -subpackages sim 2> api/build.txt

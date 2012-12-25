@@ -1,0 +1,15 @@
+
+if (not accepted) { //This is the terminal Node
+	accept
+	send leafset
+} else { //This is the first node (ie the requesting one)
+	if (acceptNode has some ID as me)
+		error
+	else
+		add accepting node to routing table
+		broadcast?
+		update leafset from accepting node
+	
+} else { //This is a intermediate node
+	send all rows from MSDD to last
+}

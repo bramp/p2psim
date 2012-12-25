@@ -1,0 +1,10 @@
+impfile = input('Filename?> ');
+workload = input('Workload Name?> ');
+rep = input('Repetitions?> ');
+r1 = importtab(strcat(impfile,'-0.01.tab'));
+r5 = importtab(strcat(impfile,'-0.05.tab'));
+r10 = importtab(strcat(impfile,'-0.1.tab'));
+r20 = importtab(strcat(impfile,'-0.2.tab'));
+r30 = importtab(strcat(impfile,'-0.3.tab'));
+r50 = importtab(strcat(impfile,'-0.5.tab'));
+clear impfile;
